@@ -1,12 +1,12 @@
-# 🚀 Sideproject — Validador de datos
+# 🚀 DevSandbox — Validador de datos
 
-**Repositorio:** `sideproject-validador-de-datos` · **Tipo:** biblioteca + ETL · **Tiempo:** 4–5 h · **Después de:** el gran integrador de este módulo
+**Repositorio:** `DevSandbox-validador-de-datos` · **Tipo:** biblioteca + ETL · **Tiempo:** 4–5 h · **Después de:** el gran integrador de este módulo
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
-En tu sideproject anterior diste por hecho que el CSV venía bien. En la vida real no: montos vacíos, fechas imposibles, tipos inventados. Vas a construir una pequeña biblioteca que revisa un archivo y dice **exactamente** qué fila está mal y por qué, sin detenerse en el primer error.
+En tu DevSandbox anterior diste por hecho que el CSV venía bien. En la vida real no: montos vacíos, fechas imposibles, tipos inventados. Vas a construir una pequeña biblioteca que revisa un archivo y dice **exactamente** qué fila está mal y por qué, sin detenerse en el primer error.
 
 Datos: `datos/transacciones_sucias.csv` (con `csv.DictReader`, sin pandas).
 
