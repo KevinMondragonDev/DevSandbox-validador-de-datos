@@ -2,7 +2,18 @@
 
 > Biblioteca que revisa un CSV fila por fila y dice exactamente qué está mal y por qué, sin detenerse en el primer error.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Biblioteca + ETL · **Módulo del programa:** 02 · Funciones y POO
+**Estado:** 🚧 sin empezar · **Categoría:** DevSandbox · **Tipo:** Biblioteca + ETL · **Módulo del programa:** 02 · Funciones y POO
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| **`DevSandbox-`** ← este | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| `NightBuilds-` | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **DevSandbox**: el reto está estimado en 4–5 h.
 
 ## La problemática
 
