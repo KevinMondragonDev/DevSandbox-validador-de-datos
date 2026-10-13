@@ -1,0 +1,1561 @@
+id,cuenta_id,fecha,tipo,monto,comercio,categoria
+1982,1,2026-03-06 13:12,retiro,-8792.22,,
+1447,7,2026-04-03 16:44,deposito,10657.31,,
+1165,4,2026-06-08 08:12,compra,351.78,Toks,restaurantes
+1405,12,2026-01-22 12:12,compra,1153.64,Netflix,entretenimiento
+2483,11,2026-02-07 13:35,deposito,15423.87,,
+1083,12,2026-06-23 07:06,compra,67.49,Pemex,gasolina
+1330,12,2026-05-25 15:08,compra,346.01,Izzi,servicios
+2412,6,2026-09-05 15:18,compra,2605.38,Volaris,viajes
+1838,6,2026-09-30 20:42,compra,114.17,Vips,restaurantes
+1601,6,2026-08-09 15:48,compra,231.79,Walmart,supermercado
+2214,2,2026-04-23 19:53,compra,138.12,HEB,supermercado
+1298,4,2026-09-18 19:36,deposito,4794.33,,
+1540,1,2026-03-30 10:18,compra,710.60,Airbnb,viajes
+1952,8,2026-08-31 13:23,deposito,"$6,660.05",,
+2142,4,2026-08-17 19:44,compra,992.14,Toks,
+1623,15,2026-04-22 11:52,transferencia,1359.58,,
+2499,3,2026-09-13 10:46,compra,,Netflix,entretenimiento
+1884,8,2026-05-24 20:15,transferencia,14583.64,,
+1496,3,2031-03-27 08:20,compra,-609.54,Shell,gasolina
+1282,4,2026-06-01 09:18,COMPRA,163.38,HEB,supermercado
+1549,11,2026-02-07 09:10,compra,419.86,Airbnb,viajes
+2273,4,2026-08-18 15:40,deposito,678.56,,
+1733,8,2026-02-19 19:38,compra,2426.37,Netflix,entretenimiento
+1870,4,2026-09-01 18:29,compra,1339.16,Walmart,supermercado
+2494,15,2026-09-12 22:52,compra,26.64,Shell,gasolina
+1117,12,2026-09-18 20:09,compra,178.49,HEB,supermercado
+2125,15,2026-09-10 08:02,compra,299.70,Shell,gasolina
+2187,3,2026-09-19 17:40,compra,$656.71,CFE,servicios
+1534,12,2026-07-24 20:56,deposito,653.44,,
+1966,5,2026-09-16 14:49,compra,41708.00,HEB, Supermercado 
+1624,12,2026-08-30 10:02,transferencia,620.58,,
+1724,1,2026-09-09 21:29,deposito,11205.54,,
+1798,13,2026-05-05 08:47,deposito,2960.63,,
+1076,7,2026-07-04 09:05,compra,41567.00,Pemex,
+1768,14,2031-04-20 18:12,compra,996.38,Toks,restaurantes
+1791,3,2026-02-03 17:14,compra,$108.75,Ticketmaster,ENTRETENIMIENTO
+1426,1,2026-03-05 07:27,compra,1300.12,Telcel, Servicios 
+2318,404,2026-02-12 07:14,retiro,"$3,275.28",,
+1605,13,2026-06-17 09:55,COMPRA,430.42,Shell,gasolina
+2354,15,2031-06-04 22:45,compra,459.40,Pemex,gasolina
+1509,3,2026-05-19 07:00,deposito,959.89,,
+1774,12,2026-01-28 19:04,compra,224.81,Chedraui,supermercado
+1446,14,2026-04-17 15:13,compra,89.08,Shell,gasolina
+1957,11,2026-07-07 16:05,compra,574.39,La Mariposa,restaurantes
+1373,11,2026-03-14 09:26,deposito,1610.53,,
+2497,14,2026-09-13 10:18,retiro,1028.15,,
+1131,2,2026-09-20 14:00,compra,55.17,Pemex,gasolina
+1796,1,2026-02-21 11:22,deposito,"$6,143.55",,
+2242,7,2026-07-18 08:02,deposito,17199.33,,
+2038,2,2026-06-15 14:21,deposito,17632.52,,
+2434,10,2026-03-20 16:40,compra,1427.03,CFE,servicios
+1383,10,2026-07-05 10:04,deposito,1431.79,,
+1288,5,2026-07-06 13:00,compra,58.17,Sushi Itto,restaurantes
+1577,6,2026-01-15 21:27,compra,87.92,La Mariposa,restaurante
+2162,9,2026-02-01 21:02,compra,982.65,La Mariposa,restaurantes
+1656,9,2026-05-30 12:06,deposito,284.74,,
+1182,8,17/09/2026 12:56,COMPRA,1180.65,Ticketmaster, Entretenimiento 
+2118,15,2026-08-02 13:24,compra,609.47,Shell,gasolina
+2479,7,2026-01-13 09:32,compra,$546.22,Telcel,servicios
+1896,8,2026-05-31 13:58,compra,277.30,Spotify,entretenimiento
+1450,8,2026-09-26 10:48,compra,1279.72,Walmart,supermercado
+1802,4,2026-03-22 12:33,deposito,2345.13,,
+2230,9,2026-09-04 12:58,compra,200.76,Vips,RESTAURANTES
+1172,10,2026-04-23 10:36,compra,1215.17,Walmart,supermercado
+1683,10,2026-09-25 21:15,compra,-268.68,CFE,servicios
+2374,10,2026-04-04 12:07,deposito,1316.33,,
+1483,404,2026-04-23 15:46,deposito,2664.88,,
+2488,3,2026-06-08 13:00,compra,2674.65,Telcel,SERVICIOS
+1296,1,2026-09-11 07:22,compra,569.02,Shell,gasolina
+1645,11,2026-08-10 11:49,compra,142.98,Airbnb,viajes
+1516,15,2026-04-18 12:09,compra,1174.20,Spotify,entretenimiento
+2176,4,2026-03-03 21:51,deposito,7213.63,,
+1889,3,2026-03-20 21:35,Compra ,118.03,Airbnb,viajes
+1699,3,2026-08-24 13:27,retiro,282.33,,
+1106,12,2026-05-08 13:37,retiro,366988.00,,
+2036,15,2026-02-05 16:27,Compra ,29239.00,Walmart,supermercado
+1560,8,2026-06-01 21:30,compra,-236.33,BP,gasolina
+1517,5,2026-06-14 08:50,compra,477.52,Airbnb,viajes
+1835,10,2026-03-27 07:51,deposito,3100.58,,
+1206,4,2026-01-03 20:01,deposito,"$1,346.38",,
+1492,15,2026-09-15 10:10,deposito,11037.59,,
+2458,1,2026-08-11 18:24,compra,33.83,Pemex,gasolina
+2388,11,2026-01-08 10:35,compra,1014.70,Walmart,supermercado
+2154,1,2026-07-07 21:28,compra,590.22,Airbnb,viajes
+1844,,2026-08-31 14:51,compra,1070.47,Walmart,supermercado
+1397,11,2026-06-20 11:39,compra,145.82,Izzi,servicios
+1507,5,2026-02-19 07:46,transferencia,-12244.82,,
+1607,0,2026-06-28 14:36,retiro,3527.24,,
+1955,2,2026-06-29 08:40,compra,491.80,Telmex,servicios
+1325,3,2026-04-21 15:17,compra,520.47,Ticketmaster,entretenimiento
+2216,3,2026-02-09 10:48,deposito,591.67,,
+1486,15,2026-09-02 13:35,transferencia,,,
+1524,7,2026-04-29 10:39,compra,247.20,Spotify,entretenimiento
+2310,5,2026-05-29 20:19,compra,150.53,Ticketmaster,entretenimiento
+2015,12,2026-06-25 16:47,compra,1046.99,Telcel, Servicios 
+1016,11,2026-09-07 18:49,transferencia,448.52,,
+1058,5,2026-05-21 09:38,compra,105.99,La Mariposa,restaurantes
+2229,5,2026-04-18 10:16,deposito,4683.22,,
+1257,8,2026-05-01 08:38,compra,280.50,Toks,restaurantes
+1671,9,2026-07-23 07:26,compra,1204.62,Telmex,servicios
+2046,10,2026-08-17 16:14,deposito,6984.79,,
+1680,7,2026-01-10 11:20,compra,80619.00,Walmart,supermercado
+1350,14,04/05/2026 12:39,compra,708.91,HEB, Supermercado 
+1331,13,2026-02-01 18:00,transferencia,1801.83,,
+2297,13,2026-03-12 11:30,compra,1138.57,HEB,supermercado
+2052,14,2026-04-08 19:45,compra,191.41,Pemex,gasolina
+1931,12,2026-07-18 20:43,retiro,1489.81,,
+2474,5,2026-04-09 13:29,compra,$210.03,Telcel,servicios
+1638,5,2026-06-27 14:36,compra,307.26,Chedraui,supermercado
+1559,14,2026-02-13 10:07,compra,141.52,Sushi Itto, Restaurantes 
+1404,13,2026-01-01 17:08,compra,1293.55,Walmart,supermercado
+1740,2,2026-02-11 11:26,deposito,1377.50,,
+2097,4,2026-09-07 10:48,deposito,1012.34,,
+1935,7,2026-09-03 19:11,compra,$760.14,Shell, Gasolina 
+1948,9,2026-05-11 21:21,compra,,Vips,RESTAURANTES
+1126,13,2026-01-21 07:22,compra,38.51,Telcel, Servicios 
+2389,10,2031-02-10 20:48,compra,159.02,Sushi Itto,restaurantes
+1258,7,2026-08-01 13:16,deposito,273.77,,
+1877,11,2026-09-07 19:03,transferencia,14684.88,,
+1497,2,2026-02-01 09:14,retiro,641.17,,
+2285,8,2026-09-01 15:21,deposito,2758.07,,
+2055,10,2026-07-19 10:55,compra,272.29,ETN,viajes
+2301,6,2026-01-05 20:43,transferencia,15504.82,,
+1756,12,2026-08-31 11:06,compra,2350.75,La Mariposa,restaurantes
+1297,4,2031-05-27 22:59,transferencia,"$1,201.73",,
+1189,13,2026-03-29 15:20,compra,631.33,Toks,restaurante
+2051,404,2026-09-07 07:58,retiro,1227.96,,
+1445,13,2026-02-07 18:16,transferencia,1359.42,,
+2076,15,2026-06-22 09:53,compra,575.42,BP, Gasolina 
+1374,4,2026-05-13 17:54,compra,781.30,Pemex,gasolina
+1063,3,2026-03-10 22:19,deposito,625.65,,
+1761,5,2026-08-04 15:27,compra,478.92,Pemex,gasolina
+2339,8,2026-01-19 15:53,retiro,11911.42,,
+1991,3,2026-02-12 18:32,retiro,9025.33,,
+1154,10,2026-03-30 07:07,compra,519.41,BP, Gasolina 
+1613,6,31/07/2026 21:22,retiro,2266.86,,
+1113,2,2026-01-15 18:09,transferencia,1393.37,,
+1978,10,2026-05-10 18:27,retiro,"$2,130.98",,
+1688,99,2026-09-10 17:19,compra,$512.99,Walmart,supermercado
+1094,12,2026-06-20 16:57,retiro,8352.98,,
+1339,12,2026-01-16 22:18,compra,$554.27,Walmart,supermercado
+1238,13,2026-05-31 21:16,deposito,636.03,,
+1872,6,2026-02-17 16:22,compra,424.49,BP,GASOLINA
+1790,7,2026-07-15 12:15,compra,$241.87,Telmex, Servicios 
+2376,9,2026-09-29 18:07,compra,983.62,HEB,supermercado
+2039,5,2026-07-09 09:04,deposito,$634.05,,
+2433,2,2026-01-09 17:55,compra,727.59,Soriana,supermercado
+1627,14,2031-06-18 12:25,compra,2054.45,Walmart,supermercado
+1542,11,2026-08-17 20:03,TRANSFERENCIA,931.01,,
+1663,11,2026-04-12 14:09,DEPOSITO,2316.41,,
+2005,7,2026-07-29 16:06,retiro,4610.18,,
+1668,5,2026-02-15 22:59,compra,466.98,Shell, Gasolina 
+1168,7,2026-07-14 07:53,deposito,1555.27,,
+2112,15,2026-02-04 10:50,compra,$806.90,Volaris,viajes
+2147,14,2026-05-04 09:19,compra,-336.73,Netflix,entretenimiento
+1218,6,2026-08-04 11:02,compra,199.85,Sushi Itto,restaurantes
+2365,8,2026-02-18 16:14,compra,323.97,Pemex,gasolina
+2164,8,2026-02-17 15:12,compra,701.27,Soriana,supermercado
+2048,15,2026-01-24 14:11,compra,1723.68,Airbnb,
+1664,,2026-04-13 14:17,deposito,324.38,,
+2373,4,2026-06-11 12:56,compra,62.05,HEB,supermercado
+1480,6,2026-04-30 15:37,retiro,3326.10,,
+1873,3,2026-05-07 11:44,compra,$120.21,Shell, Gasolina 
+2418,8,2026-02-06 11:10,deposito,2015.08,,
+2276,2,2026-08-23 13:12,compra,$607.53,Sushi Itto,restaurantes
+1454,10,2026-01-25 17:19,deposito,1708.41,,
+1321,6,2026-09-13 17:42,compra,190.19,Cinépolis,entretenimiento
+1265,1,2026-09-12 08:00,deposito,4695.26,,
+1583,5,2026-04-12 20:31,compra,221.24,Chedraui,SUPERMERCADO
+1207,3,2026-08-15 11:21,compra,504.88,Aeroméxico,viajes
+2135,11,2026-05-10 15:01,COMPRA,$817.46,Izzi,servicios
+1137,6,2026-07-18 11:30,compra,99.47,BP,gasolina
+1461,8,2026-03-16 15:16,deposito,515.51,,
+1057,9,2026-07-19 12:23,compra,232.00,Walmart,supermercado
+2466,12,2026-05-11 14:44,deposito,"$13,438.98",,
+2050,11,2026-01-04 19:38,compra,1916.18,Pemex,gasolina
+1822,5,2026-04-01 12:02,transferencia,945498.00,,
+1919,8,2026-05-03 13:38,retiro,814.09,,
+1281,7,2026-05-07 18:36,compra,450.12,Aeroméxico,
+1886,4,2026-03-26 18:30,compra,258.69,Chedraui,supermercado
+1111,1,2026-02-23 07:26,compra,946.26,Telmex,servicios
+1979,2,2026-01-04 16:21,compra,166.91,Chedraui,supermercado
+1269,99,04/03/2026 13:38,compra,329.50,Telmex,servicios
+1550,2,2026-07-24 16:34,retiro,253.12,,
+2008,13,2026-01-05 19:24,compra,309.70,BP,gasolina
+2168,13,2026-01-24 10:12,compra,120.38,La Mariposa,restaurantes
+1666,15,2026-08-31 20:17,compra,442.86,Volaris,viajes
+1285,3,2026-01-19 13:46,compra,276.79,Ticketmaster,entretenimiento
+2490,2,18/06/2026 19:09,compra,986.67,Soriana,supermercado
+1477,1,2026-01-19 14:37,compra,630.21,Volaris,
+1384,1,2026-06-29 18:51,COMPRA,1013.77,Walmart,supermercado
+1884,8,2026-05-24 20:15,transferencia,14583.64,,
+1544,4,2026-05-29 18:50,retiro,2676.95,,
+1011,15,2026-06-26 13:07,compra,1578.62,Telmex,servicios
+2134,6,2026-01-09 16:30,transferencia,"$1,216.18",,
+1141,11,2026-05-15 21:19,deposito,537.65,,
+1334,7,15/09/2026 14:05,compra,75.20,Netflix,entretenimiento
+1594,13,13/04/2026 16:11,compra,"$1,656.84",Chedraui,
+2487,11,2026-04-19 11:37,compra,569.90,BP,gasolina
+1457,4,2026-04-22 09:01,compra,313.32,Vips, Restaurantes 
+2281,10,17/08/2026 10:43,transferencia,1639.90,,
+2044,10,2026-02-27 14:45,compra,,Airbnb,viajes
+2173,13,2026-02-01 21:26,compra,2638.05,Netflix,
+2401,7,2026-07-01 17:24,deposito,3681.06,,
+1073,,2026-01-24 17:13,Compra ,250.54,Soriana, Supermercado 
+2190,9,2026-06-17 18:01,compra,,La Mariposa,
+1744,15,2026-07-14 13:11,deposito,2689.24,,
+2430,14,2026-06-07 11:02,deposito,,,
+1223,14,2026-04-24 10:18,deposito,2957.68,,
+2440,3,2026-01-25 15:50,retiro,951.06,,
+2261,11,2026-02-11 18:00,compra,1214.08,HEB,supermercado
+1705,15,2026-05-30 15:01,compra,585.57,Shell,gasolina
+1466,3,13/06/2026 14:05,compra,159.47,BP,gasolina
+1096,,2026-01-27 17:29,compra,390.02,Walmart,supermercado
+1263,7,2026-02-09 10:18,compra,1044.68,HEB,supermercado
+1055,15,2026-05-30 21:28,compra,574.58,CFE,servicios
+2456,4,2026-02-22 13:10,compra,,HEB,supermercado
+1676,2,2026-07-22 18:14,DEPOSITO,1464.26,,
+2248,10,2026-03-31 12:46,COMPRA,260.85,Volaris,viajes
+2066,3,2026-02-12 12:45,depósito,$463.94,,
+1162,5,2026-06-17 18:37,compra,752.00,Cinépolis,ENTRETENIMIENTO
+1720,6,2026-07-20 08:50,transferencia,637.37,,
+2451,7,2026-08-31 19:28,compra,54.68,Soriana,supermercado
+1707,4,2026-08-29 17:32,compra,103.65,CFE,servicios
+1441,8,2026-07-26 09:03,compra,358.20,Toks,restaurantes
+1722,2,2026-04-25 07:23,transferencia,,,
+2293,9,2026-09-10 15:42,deposito,584.89,,
+2095,9,2026-06-28 16:18,compra,$242.81,Ticketmaster,entretenimiento
+1598,10,2026-04-26 19:14,compra,5412.00,Vips,restaurantes
+1757,12,2026-05-16 12:24,compra,171.94,Chedraui,supermercado
+1109,9,2026-03-17 13:39,retiro,588.54,,
+1937,14,2026-02-23 13:17,compra,795.48,Pemex,
+1712,11,2026-04-15 15:48,compra,1027.82,Aeroméxico,viajes
+2383,4,2026-03-02 15:19,retiro,466.99,,
+1735,5,14/08/2026 14:15,retiro,-6050.52,,
+1409,2,2026-01-12 11:20,retiro,4105.54,,
+1169,2,2026-09-14 08:26,DEPOSITO,847.70,,
+1675,5,2026-07-05 15:31,deposito,5465.10,,
+2123,8,2026-02-13 14:36,deposito,7141.53,,
+2072,15,2026-07-02 13:47,compra,603.56,CFE,servicios
+2057,3,2026-04-23 12:46,compra,139.04,Volaris,viajes
+1005,1,2026-02-20 16:40,retiro,2986.38,,
+1693,6,2026-02-03 15:32,compra,775.92,Ticketmaster,entretenimiento
+1372,13,2026-08-16 11:58,compra,445.80,ETN, Viajes 
+1068,3,2026-06-18 17:47,compra,645.80,Cinépolis,ENTRETENIMIENTO
+2209,14,2026-08-01 10:16,deposito,1147.80,,
+2196,3,2026-07-01 18:29,compra,$890.78,Netflix,ENTRETENIMIENTO
+1660,13,2026-07-31 15:47,retiro,7092.02,,
+2166,3,2026-08-31 17:57,deposito,1252.73,,
+2002,1,2026-08-18 10:25,compra,558.20,La Mariposa,restaurantes
+1662,11,2026-05-27 11:12,retiro,5493.93,,
+2298,11,2026-03-10 07:59,deposito,5793.07,,
+1568,3,23/05/2026 17:17,compra,,Toks,restaurantes
+2237,11,2031-07-31 15:08,compra,395.42,Chedraui,supermercado
+2115,4,2026-08-08 17:45,compra,436.98,Sushi Itto,restaurantes
+1789,2,2026-08-24 19:48,retiro,1442.15,,
+1555,7,2026-02-04 09:06,compra,-388.42,BP,gasolina
+2152,11,2026-01-17 07:35,transferencia,1067.36,,
+2358,13,2026-03-21 08:03,compra,305.43,Vips,
+2452,15,2026-04-06 08:37,compra,345.86,CFE,servicios
+2415,1,2026-09-09 16:29,compra,274.04,Aeroméxico,VIAJES
+1472,10,2026-06-28 13:03,compra,667.17,CFE,servicios
+1008,8,2026-06-05 13:06,transferencia,$272.49,,
+1920,1,2026-06-05 07:41,compra,571.84,Pemex,gasolina
+2032,14,2026-04-04 12:59,deposito,1722.37,,
+1237,9,2026-08-14 10:06,transferencia,10165.37,,
+2317,6,2026-06-10 19:49,compra,1286.05,Soriana,SUPERMERCADO
+1493,15,2026-05-01 15:43,compra,965.84,Soriana, Supermercado 
+2138,5,2026-01-01 18:04,COMPRA,357.37,Telcel,servicios
+1140,14,06/02/2026 15:31,compra,932.27,Volaris,viajes
+2195,13,2026-03-05 16:41,compra,157.74,Spotify,
+2325,3,2026-01-25 13:36,retiro,8317.25,,
+2021,5,2026-06-13 13:23,deposito,$745.29,,
+2127,13,2026-03-29 09:19,COMPRA,1505.25,Aeroméxico,viajes
+1271,7,2026-03-09 07:40,compra,,Netflix,entretenimiento
+2071,12,2026-06-28 14:40,retiro,1206.66,,
+1410,14,2026-03-07 21:40,DEPOSITO,1079.51,,
+2130,14,2026-04-25 21:17,deposito,,,
+2390,4,03/07/2026 14:08,deposito,1304.36,,
+1618,7,2026-05-27 21:26,compra,94.20,ETN,viajes
+1410,14,2026-03-07 21:40,DEPOSITO,329.06,,
+2078,13,27/07/2026 11:04,transferencia,4718.31,,
+2080,8,2026-01-08 21:12,compra,$608.83,Netflix,entretenimiento
+1391,12,2026-08-08 22:24,deposito,1339.45,,
+1557,4,2026-06-09 20:04,compra,$131.39,La Mariposa, Restaurantes 
+1669,1,2026-02-21 07:26,deposito,2436.02,,
+1589,15,2026-03-13 07:05,deposito,703.55,,
+1566,5,2026-05-15 19:39,compra,1422.69,Cinépolis,entretenimiento
+1267,11,2026-01-25 10:22,compra,165.01,Airbnb,viajes
+1254,10,2026-01-14 07:51,compra,162.86,ETN,viajes
+1183,3,2026-08-13 13:29,compra,407.87,Izzi,servicios
+1309,5,2026-06-15 19:49,retiro,630.43,,
+1646,8,2026-07-15 16:35,retiro,-9657.76,,
+1392,8,2026-08-06 09:54,COMPRA,570.09,Walmart,SUPERMERCADO
+1234,2,2026-03-16 18:18,deposito,15480.13,,
+2000,13,02/03/2026 15:38,deposito,16154.14,,
+2442,6,2026-05-28 19:01,compra,802.06,Izzi,servicios
+2037,9,2026-08-22 12:24,transferencia,,,
+1983,12,2026-05-09 18:50,retiro,2391.70,,
+2231,3,2026-06-27 21:31,deposito,6005.15,,
+2011,13,2026-03-05 16:33,deposito,522.57,,
+2119,15,2026-04-04 17:40,compra,265.43,Ticketmaster,entretenimiento
+1923,11,2026-04-01 19:35,compra,"$3,941.29",Netflix,ENTRETENIMIENTO
+1583,5,2026-04-12 20:31,compra,221.24,Chedraui,SUPERMERCADO
+2352,5,27/09/2026 11:33,DEPOSITO,503.76,,
+1086,9,2026-04-08 15:06,deposito,9967.72,,
+1114,5,2026-01-06 16:35,compra,133.55,CFE,servicios
+1914,8,2026-03-29 12:53,transferencia,667.57,,
+1013,12,2026-09-02 14:26,compra,259.67,Airbnb,
+2152,11,2026-01-17 07:35,transferencia,1067.36,,
+1934,6,2026-06-07 20:28,compra,330.63,Chedraui, Supermercado 
+1386,1,2026-05-16 18:08,compra,522.15,CFE,servicios
+2099,2,2026-04-24 19:03,deposito,587.59,,
+1270,9,2026-09-01 07:33,retiro,"$4,907.55",,
+1890,3,2031-08-25 11:14,compra,272.74,Volaris,viajes
+1250,9,2026-03-29 09:46,compra,124.02,Ticketmaster,entretenimiento
+1866,8,2026-07-04 07:50,deposito,1349.67,,
+1585,404,2026-03-13 13:47,deposito,330.45,,
+1629,14,2026-06-23 13:29,transferencia,1301.36,,
+1846,6,2026-08-24 19:59,RETIRO,1384.00,,
+1139,15,2026-03-15 10:56,transferencia,307.91,,
+1012,1,2026-05-10 12:04,compra,122.38,La Mariposa,restaurantes
+1609,14,2026-02-23 16:01,deposito,,,
+1440,14,2026-04-30 10:19,deposito,2462.52,,
+1520,10,2026-04-12 13:50,compra,229.87,Shell, Gasolina 
+1411,6,2026-01-03 14:09,compra,$281.14,ETN,viajes
+1807,6,2026-09-26 08:57,retiro,6372.63,,
+1484,2,2026-01-26 17:56,deposito,1418.63,,
+2486,0,04/05/2026 13:02,compra,1001.81,Telcel,servicios
+2220,12,2026-06-19 19:42,compra,921.87,Telmex,servicios
+1049,6,2026-03-01 22:12,deposito,9186.39,,
+1181,3,2026-05-15 09:06,deposito,1641.05,,
+1462,13,2026-04-08 20:34,compra,755.94,Ticketmaster,entretenimento
+1148,404,2026-04-05 17:25,compra,605.65,Telcel, Servicios 
+1202,1,2026-09-25 18:46,compra,$69.36,Shell,gasolina
+2449,4,2026-04-02 12:23,compra,332.79,La Mariposa,restaurantes
+2009,2,2026-08-31 11:16,deposito,2778.94,,
+1179,5,2026-01-30 15:02,deposito,-373.46,,
+2291,5,2026-02-27 15:38,compra,176.44,Telcel,servicios
+1816,13,2026-07-26 18:24,Compra ,381.39,Toks,restaurantes
+2422,,2026-02-27 18:08,compra,220.19,Netflix,ENTRETENIMIENTO
+2092,9,2026-05-04 21:18,deposito,2481.83,,
+2124,14,2026-01-21 21:37,retiro,16010.08,,
+1677,14,2026-06-12 15:07,compra,784.93,Pemex,gasolina
+1438,2,2026-06-12 08:57,compra,614.66,Netflix,ENTRETENIMIENTO
+1239,6,2026-08-11 12:40,compra,141.16,Vips,restaurantes
+1968,10,2031-07-24 15:02,retiro,13981.68,,
+1212,99,2026-02-11 12:28,compra,152.45,Spotify,entretenimiento
+1152,1,2026-03-24 10:21,compra,246.04,BP,gasolina
+2200,8,2026-05-31 18:03,compra,2461.22,Izzi,servicios
+1592,8,2026-09-01 13:09,transferencia,287.27,,
+1824,14,2026-06-18 22:45,compra,245.85,Ticketmaster,entretenimiento
+1940,14,2026-04-25 14:41,compra,250.64,Spotify,entretenimiento
+1443,8,2026-06-19 11:28,deposito,1244.93,,
+2041,5,2026-07-24 11:41,compra,354.44,BP,gasolina
+1678,13,2026-09-11 15:23,compra,166.24,Toks,restaurantes
+1277,,2026-04-10 18:33,compra,589.38,Chedraui,supermercado
+1606,3,2026-06-09 08:32,compra,-618.12,Telcel,servicios
+1749,15,2026-07-03 14:33,deposito,550199.00,,
+2239,1,2026-04-13 20:33,deposito,1297.30,,
+2362,9,2026-09-03 16:52,compra,204.65,Airbnb,viajes
+1850,13,2026-04-26 12:51,compra,703.82,ETN,viajes
+1780,6,2026-09-14 15:22,compra,676.80,Volaris, Viajes 
+1829,9,2026-04-13 14:36,deposito,1720.39,,
+2111,7,2026-09-27 18:08,compra,$507.30,Volaris,viajes
+1157,9,2026-04-16 17:47,compra,393.25,Aeroméxico,viajes
+1921,13,2026-02-08 14:51,deposito,446.41,,
+1225,5,2026-06-11 18:11,compra,61.43,CFE,servicios
+2192,4,2026-07-01 07:44,compra,149.66,Spotify,entretenimiento
+2355,7,2026-07-21 21:28,compra,1062.51,La Mariposa,restaurantes
+1252,5,2026-04-12 21:58,compra,379.29,Chedraui,
+1943,12,12/01/2026 12:56,compra,216.83,Izzi,servicios
+1511,13,2026-01-29 13:50,compra,548.17,HEB,supermercado
+2255,4,2026-09-18 09:05,compra,290.19,Airbnb,VIAJES
+2145,10,2026-05-19 16:38,retiro,1689.97,,
+1158,14,2026-07-11 07:50,compra,271.53,Vips,restaurantes
+1107,5,2026-08-22 19:04,retiro,275.35,,
+2496,8,2026-01-26 20:37,deposito,518.54,,
+2074,4,2026-03-14 10:37,compra,261.18,Aeroméxico,viajes
+1160,13,2026-04-19 07:18,compra,,Spotify,entretenimiento
+1998,10,2026-03-31 22:15,transferencia,579.39,,
+2489,9,2026-01-06 17:53,compra,225.27,HEB,supermercado
+1697,6,2026-05-22 12:02,compra,588.08,ETN,viajes
+1752,,2026-01-26 21:18,transferencia,17692.01,,
+1706,14,2026-02-06 15:23,compra,200.26,Sushi Itto,RESTAURANTES
+1819,7,2026-03-13 16:15,compra,2526.05,Netflix, Entretenimiento 
+1284,3,2026-05-20 07:59,deposito,997.14,,
+1233,6,2031-01-19 20:53,compra,853.95,Izzi,servicios
+1715,7,2026-03-20 18:57,deposito,768.19,,
+1788,6,2026-08-15 11:50,transferencia,759.56,,
+1694,5,2026-02-08 11:30,compra,235.08,Aeroméxico,viajes
+1158,14,2026-07-11 07:50,compra,405.02,Vips,restaurantes
+2236,1,2026-05-26 11:26,compra,494.07,CFE,servicios
+1390,12,2026-01-26 20:22,deposito,1321.24,,
+1954,15,2026-08-23 14:15,transferencia,-1388.84,,
+1843,1,2026-03-19 18:21,transferencia,1560.68,,
+1175,11,2026-05-10 10:28,compra,220.77,ETN, Viajes 
+2493,11,2026-09-04 08:35,compra,312.56,Toks, Restaurantes 
+1622,2,2026-07-04 14:01,transferencia,15287.23,,
+1246,12,2026-04-07 21:23,compra,288.28,Telmex,SERVICIOS
+2295,11,2026-06-12 20:49,compra,-289.39,BP,gasolina
+1061,6,2026-01-23 15:30,compra,1038.64,Pemex,gasolina
+2034,7,2026-08-13 22:57,compra,599.56,CFE,servicios
+2367,2,2026-07-21 14:34,compra,294.43,Ticketmaster,entretenimiento
+1652,5,2026-07-24 14:42,compra,152.60,Volaris,viajes
+1124,0,2026-09-23 21:29,compra,632.31,Airbnb,viajes
+1944,5,2026-02-11 14:18,compra,507.83,Airbnb,VIAJES
+1799,4,2026-06-12 17:42,retiro,4441.59,,
+2098,1,2026-09-16 16:58,compra,593.80,Netflix,ENTRETENIMIENTO
+1800,2,2026-08-25 20:46,compra,233.49,Izzi,servicios
+2067,13,2026-09-30 22:04,deposito,5310.30,,
+1077,3,2026-05-20 18:57,compra,137.24,Soriana,supermercado
+2155,7,2026-03-10 09:05,deposito,1248.69,,
+1898,3,2026-09-09 18:03,COMPRA,158.42,Sushi Itto,restaurante
+1283,7,2026-06-10 21:06,compra,103.67,Pemex,gasolina
+1959,2,2026-09-26 18:17,deposito,533.95,,
+2278,4,2026-05-11 16:16,compra,293.96,Toks,restaurantes
+1305,,2026-04-03 11:09,transferencia,683.25,,
+1056,13,2026-01-17 08:06,transferencia,668.78,,
+2403,15,2026-01-09 11:08,compra,202.18,Pemex,gasolina
+1081,1,2026-06-22 19:27,deposito,609.44,,
+2306,5,2026-05-13 20:04,compra,247.70,ETN,viajes
+1231,1,2026-09-07 11:52,compra,1160.55,CFE,servicios
+2062,1,2026-02-16 18:12,compra,1184.50,BP,gasolina
+1320,8,2026-07-23 18:59,transferencia,7174.71,,
+1118,2,2026-02-19 11:37,compra,186.85,Toks, Restaurantes 
+1552,1,2026-06-29 15:36,deposito,2532.20,,
+1413,11,2026-07-31 17:37,compra,264.03,Airbnb,viajes
+1739,6,2026-04-08 19:35,retiro,,,
+2467,9,2026-03-22 09:39,transferencia,682.88,,
+1019,13,2026-06-23 19:38,compra,535.50,Aeroméxico,viajes
+1029,1,2026-01-07 15:36,compra,753.64,Soriana,supermercado
+2153,6,2026-09-21 21:24,Compra ,,Spotify,entretenimiento
+2370,10,2026-07-20 15:29,retiro,457.59,,
+2347,4,2026-08-24 21:25,compra,281.26,BP,GASOLINA
+1026,12,2026-08-19 13:15,Compra ,305.10,Walmart,supermercado
+2179,11,16/07/2026 09:33,depósito,1530.01,,
+1596,2,2026-03-20 19:51,transferencia,1207.59,,
+1490,2,2026-06-01 17:18,transferencia,1003.44,,
+2498,7,2026-08-25 09:51,compra,$167.54,Izzi,servicios
+1743,8,2026-08-20 09:24,deposito,3219.88,,
+1387,3,19/05/2026 10:22,compra,303.38,Airbnb,viajes
+1424,3,2026-01-29 09:53,compra,1474.14,ETN,viajes
+1659,11,2026-03-12 16:37,compra,198.95,Sushi Itto,restaurantes
+1465,8,2026-07-12 07:31,deposito,9031.20,,
+1961,7,2026-08-25 13:14,compra,182.34,Pemex,gasolina
+2129,1,2026-05-16 19:42,deposito,11970.10,,
+2068,1,2026-06-09 08:48,compra,768.11,Telmex,servicios
+1253,13,2026-07-05 18:53,deposito,2653.01,,
+1726,2,2026-08-13 19:30,COMPRA,"$1,131.98",Soriana,supermercado
+1812,4,2026-04-23 11:33,compra,1633.92,Airbnb,viajes
+1420,6,2026-01-13 16:02,compra,534.93,La Mariposa,restaurantes
+1051,5,07/04/2026 11:40,compra,1028.45,Aeroméxico,viajes
+1484,2,2026-01-26 17:56,deposito,1418.63,,
+1327,5,2026-09-18 07:43,Compra ,253.51,Soriana,supermercado
+1064,5,2026-03-09 12:09,compra,608.54,ETN,viajes
+2106,12,2026-07-10 20:14,compra,238.35,Shell,gasolina
+2492,10,2026-05-16 10:31,retiro,10268.64,,
+1132,9,2026-07-06 19:56,deposito,1486.86,,
+1508,2,2026-09-02 15:55,transferencia,1074.68,,
+1276,1,2026-04-04 09:19,deposito,1196.24,,
+2321,3,2026-01-04 22:07,compra,1672.55,Pemex,gasolina
+1021,5,2026-01-13 17:43,COMPRA,241.55,La Mariposa,restaurantes
+2327,2,2026-06-12 19:39,retiro,745.33,,
+1260,8,2026-08-20 20:11,compra,299.73,Soriana,supermercado
+1412,3,2026-02-07 21:12,compra,648.26,ETN, Viajes 
+1074,8,19/03/2026 17:32,deposito,1085.36,,
+1973,6,2026-01-22 21:31,transferencia,1207.24,,
+1138,3,2026-06-16 11:41,compra,396.80,Volaris,viajes
+1003,13,2026-09-04 08:14,deposito,13879.75,,
+1911,6,03/06/2026 12:26,retiro,6432.37,,
+1862,13,2026-04-13 16:59,compra,264.19,Chedraui,supermercado
+1122,13,2026-08-26 17:55,transferencia,2005.08,,
+1622,2,2026-07-04 14:01,transferencia,15287.23,,
+1038,5,2026-03-07 22:13,deposito,2398.45,,
+1619,1,2026-05-31 20:52,deposito,15668.64,,
+2016,4,2026-04-12 07:22,compra,343.67,Sushi Itto,restaurantes
+2455,99,2026-01-09 14:51,compra,$412.82,Shell,gasolina
+2233,10,2026-09-23 20:38,compra,185.20,Soriana,supermercado
+2322,8,2026-03-24 10:32,compra,280.31,Ticketmaster,entretenimiento
+2183,2,2026-02-05 22:50,compra,181.96,Cinépolis,entretenimiento
+1272,8,2026-01-07 10:39,transferencia,13918.20,,
+1099,14,2026-04-22 18:53,transferencia,12896.98,,
+1079,7,2026-08-09 17:43,transferencia,368.31,,
+1635,13,2026-02-28 18:40,compra,219.03,Spotify,entretenimiento
+1505,9,2026-01-16 14:03,compra,$622.82,Volaris,VIAJES
+1587,3,22/07/2026 19:17,compra,123.43,ETN,VIAJES
+1095,2,2026-04-03 09:23,deposito,15008.27,,
+1147,12,2026-05-22 11:18,deposito,1203.14,,
+1184,7,2026-04-15 16:43,compra,765.31,CFE,servicios
+2215,1,2026-03-23 14:24,compra,$139.02,Izzi,servicios
+1072,11,2026-03-07 08:53,compra,262.73,Ticketmaster,entretenimiento
+1192,15,2026-08-12 12:05,compra,228.42,Airbnb,viajes
+1581,13,2026-07-22 19:16,compra,566.74,Netflix,entretenimiento
+1651,6,2026-05-26 12:56,transferencia,1075.98,,
+1723,10,2026-05-04 20:14,transferencia,11861.91,,
+2436,,2026-02-28 16:44,compra,92.53,Volaris,VIAJES
+1947,12,2026-01-12 10:30,compra,166.44,Toks,restaurantes
+2054,13,2026-04-09 20:04,Compra ,279.59,Airbnb,viajes
+1244,15,2026-04-29 12:57,compra,319.32,ETN,
+1093,10,2026-03-12 20:10,retiro,2845.93,,
+1513,12,2026-07-06 12:31,retiro,13690.01,,
+1692,10,2026-09-25 17:17,compra,196.33,Volaris,viajes
+1287,99,2026-02-06 08:29,compra,559.36,Ticketmaster,entretenimiento
+1553,10,2026-06-29 09:04,compra,790.91,Vips,restaurantes
+2357,1,2026-09-05 12:00,deposito,98881.00,,
+1883,9,2026-02-26 11:21,compra,$86.82,Walmart,supermercado
+1101,6,2026-08-03 09:35,compra,1555.03,Izzi,servicios
+1362,10,2026-06-18 11:40,compra,237.29,Spotify,entretenimiento
+1525,11,2026-08-16 15:02,deposito,1156.77,,
+1425,14,2026-03-17 21:40,compra,630.80,Soriana,supermercado
+1110,13,2026-02-12 09:20,compra,$114.71,Spotify,entretenimiento
+2172,7,2026-01-08 19:34,compra,-331.66,La Mariposa,RESTAURANTES
+1249,,2026-08-19 13:31,compra,643.51,Spotify,entretenimiento
+1869,2,2026-05-30 14:37,deposito,6905.35,,
+1395,6,2026-04-05 21:30,compra,387.91,Sushi Itto,restaurantes
+2191,3,30/03/2026 07:23,compra,121.15,Ticketmaster,entretenimiento
+1470,99,2026-06-11 20:09,compra,324.11,Pemex,gasolina
+1161,6,2026-04-08 12:50,transferencia,$631.78,,
+1858,5,2026-03-02 20:35,compra,800.89,Telmex,servicios
+1211,8,2026-01-07 21:38,compra,837.04,Vips,restaurantes
+2102,2,2026-02-08 08:00,compra,663.01,Telcel,servicios
+1318,11,2026-04-21 07:55,compra,"$1,031.10",Toks,restaurantes
+2207,4,2026-08-31 14:17,compra,146.14,CFE,servicios
+1067,10,2026-01-20 17:46,retiro,511.25,,
+2432,,2031-09-09 16:45,compra,163.91,CFE,SERVICIOS
+1194,14,2026-06-03 13:42,compra,2671.54,Toks,restaurantes
+1865,14,2026-06-30 17:33,compra,342.37,Walmart,SUPERMERCADO
+2381,14,25/08/2026 20:52,compra,2662.66,Ticketmaster,entretenimiento
+1382,3,2026-01-08 22:54,retiro,838.39,,
+1608,2,28/06/2026 18:58,deposito,12470.70,,
+1151,11,2026-01-16 18:04,compra,2052.83,Pemex,gasolina
+2247,6,2026-04-29 21:47,retiro,482.25,,
+1588,13,2026-07-02 09:16,deposito,-855.58,,
+1928,14,2026-05-08 08:13,compra,$80.02,Vips,restaurantes
+2378,13,2026-03-28 18:21,deposito,1158.17,,
+2398,7,2026-04-07 14:33,compra,$214.59,ETN,viajes
+1519,,2026-03-31 11:31,compra,96.35,La Mariposa,restaurantes
+1758,11,2026-07-17 07:36,compra,766.35,Vips,restaurantes
+1785,404,2026-08-26 18:59,compra,$270.35,Toks,restaurantes
+1950,5,10/08/2026 16:49,deposito,631.50,,
+2421,1,2026-03-02 07:25,compra,1477.31,ETN,viajes
+2491,13,2026-07-14 08:20,retiro,7193.63,,
+2232,7,2026-01-24 22:12,compra,56.42,Walmart,supermercado
+2243,2,2026-06-10 21:30,compra,,Telmex,SERVICIOS
+1826,4,2026-09-18 16:06,retiro,2828.81,,
+1545,13,2026-05-17 12:59,compra,,La Mariposa,restaurantes
+2468,1,2026-06-25 21:02,compra,$114.43,CFE,servicios
+1066,5,2026-04-07 08:33,compra,,Volaris,viajes
+1150,1,2026-02-20 22:27,compra,438.67,Izzi,servicios
+1925,10,2026-09-11 11:08,deposito,856.96,,
+1092,3,2026-05-18 15:20,retiro,1674.62,,
+1286,12,2026-07-08 16:36,compra,$399.79,Cinépolis,entretenimiento
+1642,5,2026-01-01 14:23,compra,1051.90,Sushi Itto,restaurantes
+1593,3,2026-01-03 13:14,deposito,1470.85,,
+1475,15,2026-05-17 09:48,compra,19034.00,La Mariposa,restaurantes
+1821,1,2026-08-06 11:04,deposito,"$5,586.31",,
+2149,8,2026-06-04 22:19,deposito,14496.04,,
+1228,8,2026-09-16 18:41,compra,239.59,Izzi,servicios
+2343,4,02/09/2026 17:57,transferencia,1085.89,,
+2089,15,03/07/2026 09:34,transferencia,7132.30,,
+1897,15,2026-06-18 21:21,retiro,14638.94,,
+1530,8,2026-03-22 16:54,transferencia,386.33,,
+2471,13,2031-06-19 11:05,compra,-87.88,Pemex,GASOLINA
+1406,8,2026-03-11 22:22,compra,1917.47,La Mariposa,restaurantes
+1970,8,2026-05-27 15:50,deposito,1018.28,,
+2302,1,2031-07-16 18:55,transferencia,12837.54,,
+2364,11,2026-01-13 17:44,transferencia,12407.63,,
+1695,404,2026-03-27 13:37,compra,1203.89,HEB,supermercado
+1120,10,2026-09-30 16:53,compra,317.81,HEB,supermercado
+1145,10,2026-04-18 08:22,compra,291.03,Soriana,supermercado
+1369,15,14/08/2026 10:53,compra,703.32,Soriana,SUPERMERCADO
+1765,2,2026-08-05 11:03,compra,272.84,Sushi Itto,restaurantes
+1762,,2026-06-30 21:06,compra,264.00,Vips,restaurantes
+1364,10,2026-02-05 09:53,compra,735.63,Toks,restaurante
+1059,7,2026-02-20 13:12,compra,$205.54,Telcel,SERVICIOS
+1223,14,2026-04-24 10:18,deposito,2957.68,,
+1737,8,2026-07-28 08:35,compra,516.29,Aeroméxico,viajes
+1532,3,2026-01-27 09:03,compra,592.24,Vips,restaurante
+1401,11,10/02/2026 07:19,compra,233.97,Telcel,servicios
+2311,15,2026-06-03 09:56,compra,307.38,Walmart,supermercado
+1894,1,2026-09-08 12:10,compra,970.74,Vips, Restaurantes 
+2464,10,22/05/2026 16:24,deposito,4945.19,,
+1567,3,2026-01-30 10:01,retiro,1377.72,,
+1962,9,2026-01-07 07:42,compra,760.31,BP,gasolina
+2344,14,2031-07-02 16:12,compra,82.62,BP,gasolina
+2478,5,2026-06-01 16:13,deposito,8078.15,,
+1502,8,2026-06-09 08:00,compra,937.53,Aeroméxico,viajes
+1489,10,2026-03-03 19:30,compra,293.26,Vips,restaurantes
+1714,13,2026-02-25 21:01,compra,793.37,Soriana,supermercado
+1956,8,2026-09-05 12:58,compra,195.82,Volaris, Viajes 
+1130,15,2026-01-11 11:37,compra,1025.93,Shell,gasolina
+2283,15,2026-04-18 19:55,transferencia,2996.50,,
+2314,11,23/02/2026 21:40,compra,$127.98,HEB,supermercado
+1916,14,2026-07-31 08:04,compra,163.63,La Mariposa,
+2328,5,2026-06-28 16:27,compra,249.40,Netflix,entretenimiento
+1473,8,2026-06-30 17:14,transferencia,1668.39,,
+1599,14,2026-06-01 14:15,retiro,1026.38,,
+1958,1,30/05/2026 15:41,compra,711.36,Izzi,servicios
+1187,6,2026-01-15 11:11,compra,165.20,Izzi,servicios
+1710,10,2026-08-21 11:21,deposito,2398.80,,
+1969,10,2026-09-20 21:15,compra,179.73,Telmex,servicios
+2342,11,2026-08-14 11:40,transferencia,3234.00,,
+2359,12,2026-03-26 09:52,compra,1906.24,Aeroméxico,viajes
+1782,12,2026-06-06 11:00,compra,639.13,Sushi Itto,restaurantes
+1927,4,2026-04-15 15:39,deposito,11294.63,,
+2351,3,2026-08-23 10:27,DEPOSITO,13732.93,,
+1849,9,2026-04-09 20:11,compra,-3511.84,Shell,gasolina
+1082,7,2026-07-11 08:48,DEPOSITO,453.52,,
+1273,7,2026-03-19 11:18,deposito,955.20,,
+1803,6,2026-02-23 22:59,retiro,2722.70,,
+1045,10,2026-07-23 09:04,transferencia,1387.44,,
+2385,2,2026-01-15 21:51,transferencia,513.69,,
+1007,3,2026-08-28 11:56,transferencia,6914.55,,
+1665,10,2026-05-19 07:48,transferencia,331.13,,
+1353,4,2026-01-18 12:55,compra,67.38,Telcel,servicios
+2007,10,2026-03-05 08:51,transferencia,15605.17,,
+2356,5,2026-09-27 10:11,deposito,15126.98,,
+1649,1,2026-08-25 07:29,compra,362.97,La Mariposa,restaurantes
+1837,5,2031-04-23 13:57,transferencia,543.02,,
+1535,4,2026-04-18 22:31,deposito,2735.69,,
+1856,7,2026-06-13 07:43,deposito,757467.00,,
+1682,2,2026-07-05 17:48,retiro,7051.04,,
+1177,4,2026-03-09 21:10,compra,$542.86,La Mariposa,restaurantes
+2279,2,2026-07-11 12:55,compra,66.07,Chedraui,supermercado
+1400,12,2026-03-17 14:05,transferencia,547.87,,
+2345,14,2026-02-22 12:45,compra,349.14,Cinépolis,entretenimiento
+1357,14,2026-05-17 12:52,deposito,7357.67,,
+2405,1,2026-02-21 09:03,compra,638.61,Aeroméxico,
+1640,15,2026-04-08 21:45,compra,$276.87,Pemex,gasolina
+2431,11,2026-03-10 11:57,compra,-374.48,La Mariposa, Restaurantes 
+1041,10,2026-09-01 08:40,deposito,703.72,,
+1984,2,2026-02-02 13:00,compra,1439.57,Cinépolis,entretenimiento
+2309,8,2026-07-25 21:34,retiro,6028.66,,
+2409,11,2026-07-12 16:39,transferencia,1647.18,,
+1402,8,2026-09-15 12:29,compra,1390.35,Airbnb,viajes
+2170,2,2026-03-16 11:52,deposito,1348.19,,
+1913,14,2026-02-17 08:17,retiro,1408.52,,
+1990,13,2026-04-18 22:39,retiro,761.33,,
+2407,11,2026-05-06 16:37,transferencia,4790.53,,
+1573,7,2031-05-12 21:52,compra,981.89,Izzi,servicios
+1112,4,2026-01-23 14:59,compra,613.03,HEB,supermercado
+2188,3,2026-05-08 18:53,compra,173.37,ETN, Viajes 
+1584,404,2026-04-24 11:10,COMPRA,230.04,HEB,supermercado
+1881,14,2026-04-08 10:02,COMPRA,100.71,Volaris,VIAJES
+1653,,2026-07-15 20:16,transferencia,1461.06,,
+1199,9,2026-07-11 09:31,compra,,Aeroméxico,viajes
+2443,13,2026-07-17 14:44,DEPOSITO,"$1,469.35",,
+1523,2,28/06/2026 12:17,retiro,680.21,,
+2146,7,2026-08-04 20:15,compra,678.21,Sushi Itto,restaurantes
+1463,8,2026-07-22 09:50,COMPRA,401.81,Shell,gasolina
+2010,1,2026-02-25 11:40,compra,845.68,La Mariposa,restaurantes
+1586,2,2026-03-02 21:29,retiro,6784.51,,
+1289,8,2026-07-28 12:36,compra,451.71,Sushi Itto,RESTAURANTES
+1824,14,2026-06-18 22:45,compra,300.76,Ticketmaster,entretenimiento
+1574,12,2026-04-17 11:25,deposito,5547.21,,
+1379,6,2026-07-21 08:33,deposito,7158.69,,
+2223,1,2026-04-23 17:46,compra,422.58,CFE,servicios
+2480,14,2026-05-11 17:30,compra,260.75,Netflix,entretenimiento
+1039,12,2026-02-15 10:27,retiro,311.01,,
+1536,14,2026-06-21 11:21,deposito,309.05,,
+1340,6,2026-05-20 17:37,deposito,1221.74,,
+2500,15,2026-08-25 19:44,Compra ,904.54,Izzi,servicios
+2114,3,2026-01-27 07:34,compra,183.66,Volaris,viajes
+1198,11,2026-06-10 12:00,transferencia,401.15,,
+1376,14,2026-03-05 11:24,compra,"$2,233.31",Telcel,servicios
+1065,13,2026-07-11 09:24,transferencia,1152.91,,
+1468,8,2026-01-07 18:11,deposito,1391.28,,
+1359,7,2026-01-19 19:07,Compra ,162.63,Shell,gasolina
+1918,2,2031-09-02 11:45,compra,653.76,Telmex,servicios
+2034,7,2026-08-13 22:57,compra,599.56,CFE,servicios
+1434,8,14/02/2026 08:02,compra,251.66,Telcel,servicios
+1040,3,2026-07-16 18:14,compra,,Soriana, Supermercado 
+2284,4,2026-06-28 08:15,compra,$210.58,Cinépolis, Entretenimiento 
+1370,9,2026-03-27 17:52,compra,1069.86,Spotify,entretenimiento
+2257,11,2026-03-03 08:45,COMPRA,790.35,Cinépolis,entretenimiento
+1222,13,2026-01-14 10:14,compra,247.85,ETN,viajes
+1528,7,2026-04-28 12:57,compra,236.24,Cinépolis,entretenimiento
+2402,,2026-03-30 17:29,compra,140.08,Telmex,servicios
+1368,2,2026-09-01 09:14,compra,112.91,Walmart,supermercado
+2277,8,2026-07-15 19:56,deposito,1259.83,,
+1748,99,2026-08-01 18:34,compra,106.82,Aeroméxico,viajes
+2219,11,2026-06-29 17:05,COMPRA,929.45,Ticketmaster,entretenimiento
+1047,6,2026-09-18 15:18,compra,268.02,ETN,viajes
+2020,13,2026-06-16 20:20,retiro,618.22,,
+1449,2,2026-01-17 15:14,compra,88.10,Telcel,servicios
+1729,5,2026-08-20 22:19,compra,327.36,Chedraui,supermercado
+2012,14,2026-03-31 10:31,retiro,459.32,,
+1323,10,2026-08-12 13:02,deposito,161016.00,,
+2128,1,01/04/2026 09:45,compra,221.44,Spotify,entretenimiento
+1459,12,2026-04-03 21:45,compra,809.93,HEB, Supermercado 
+2023,11,2026-09-26 08:57,deposito,1215.80,,
+1809,5,2026-06-23 14:14,deposito,6472.74,,
+2400,10,2026-07-27 20:43,compra,749.65,Spotify,ENTRETENIMIENTO
+2110,11,2026-08-24 22:47,compra,337.95,Airbnb,
+1639,4,2026-08-28 13:57,compra,176.51,HEB,supermercado
+2024,6,16/05/2026 12:37,compra,462.19,Telcel,servicios
+2460,6,2026-05-22 22:26,compra,139.86,Vips,restaurantes
+2131,10,2026-05-15 16:41,compra,290.11,Airbnb,viajes
+1820,15,2026-09-25 21:13,transferencia,17161.60,,
+1547,5,2031-01-03 11:05,compra,$539.34,ETN,viajes
+1946,1,2026-03-11 16:36,compra,163.90,Izzi, Servicios 
+1751,15,23/04/2026 08:23,compra,344.92,Izzi,servicios
+1324,9,2026-05-09 16:41,compra,515.60,Telcel,SERVICIOS
+1024,7,2026-06-23 13:34,retiro,625.71,,
+1742,7,2026-03-15 07:08,compra,330.86,Chedraui,SUPERMERCADO
+2203,2,2026-06-13 14:22,deposito,"$2,353.34",,
+1616,14,2026-04-02 18:46,compra,724.52,Vips,RESTAURANTES
+2217,10,2026-05-15 08:55,compra,-142.83,Spotify,entretenimiento
+2063,10,2026-01-10 21:28,compra,659.31,Sushi Itto,restaurantes
+2299,5,2026-05-16 17:21,compra,400.29,Shell,gasolina
+1088,15,2026-04-17 20:11,compra,2716.35,Airbnb,viajes
+1861,4,12/09/2026 07:58,compra,643.31,Ticketmaster,entretenimiento
+2053,12,2026-09-11 16:59,retiro,630.03,,
+1345,10,2026-04-26 07:39,retiro,15434.78,,
+1833,6,2026-08-03 16:32,transferencia,7270.12,,
+1681,7,2026-07-10 12:55,compra,457.55,HEB,super
+1311,,2026-06-01 09:25,compra,355.11,BP,gasolina
+1702,9,2026-07-17 08:46,compra,706.83,Telcel,SERVICIOS
+1949,6,2026-06-22 16:12,transferencia,7164.04,,
+2204,10,2026-06-10 12:52,compra,240.39,Telcel,servicios
+1582,11,2026-06-13 13:12,compra,295.14,Airbnb,viajes
+1455,6,2026-01-08 10:25,retiro,"$1,289.94",,
+1797,8,2026-01-31 08:55,compra,$134.58,Pemex,gasolina
+1235,7,2026-08-02 16:15,compra,79.60,BP,GASOLINA
+2271,10,14/05/2026 15:13,compra,1231.11,Pemex,gasolina
+1482,14,2026-07-23 18:54,compra,288.12,Shell, Gasolina 
+2105,15,2026-05-02 11:32,compra,848.06,Cinépolis,entretenimiento
+1576,12,2026-05-29 07:18,compra,138.23,Cinépolis,entretenimiento
+1815,7,2026-05-24 12:00,deposito,3300.60,,
+1314,1,2026-09-29 20:25,compra,471.18,HEB,supermercado
+1361,12,2026-04-22 15:10,compra,175.49,Izzi,
+1777,1,2026-06-12 22:23,deposito,"$1,339.80",,
+2313,9,2026-09-24 21:40,compra,131.45,Ticketmaster,entretenimiento
+2258,2,2026-04-16 08:15,compra,420.21,Spotify,ENTRETENIMIENTO
+1230,4,2026-01-29 19:00,deposito,1194.27,,
+2377,4,2026-05-07 17:00,compra,948.94,Spotify,entretenimiento
+1456,3,2026-09-26 11:40,transferencia,1608.76,,
+1262,1,2026-09-09 10:34,compra,134.92,Soriana,supermercado
+1293,1,2026-03-29 13:01,deposito,1326.67,,
+1342,9,2026-07-16 12:17,compra,99.28,La Mariposa,restaurantes
+1032,14,2026-02-04 13:50,compra,85.95,Volaris,viajes
+2026,10,2026-06-04 17:47,retiro,277.63,,
+2336,10,2026-05-01 09:56,compra,362.21,Airbnb,viajes
+1643,9,2026-01-10 13:29,deposito,495.64,,
+1193,12,2026-06-10 20:32,compra,$133.79,Ticketmaster,ENTRETENIMIENTO
+1810,8,2026-04-06 15:29,compra,221.53,Vips,restaurantes
+1888,12,2026-05-10 13:50,deposito,776.16,,
+1559,14,2026-02-13 10:07,compra,141.52,Sushi Itto, Restaurantes 
+1208,5,2026-06-23 16:26,compra,652.61,ETN,viajes
+2459,9,2026-04-14 09:15,transferencia,3803.36,,
+2163,7,2026-01-02 15:08,compra,,Aeroméxico,viajes
+1416,14,2026-08-26 10:24,deposito,749.42,,
+1632,7,2031-06-27 18:27,transferencia,"$6,973.19",,
+2013,14,2026-09-04 16:43,retiro,1374.16,,
+1027,9,2026-09-09 21:04,deposito,1902.98,,
+1787,15,2026-08-11 19:47,deposito,1722.33,,
+1854,5,2026-01-14 12:08,retiro,6023.56,,
+1738,2,2026-04-01 07:52,compra,490.36,Shell,gasolina
+1087,1,2026-04-21 11:52,compra,819.21,Spotify,entretenimiento
+1221,,2026-04-22 14:08,compra,,Telmex,servicios
+1823,4,2026-05-09 18:09,compra,509.09,BP,gasolina
+1173,2,2026-06-05 19:51,compra,133719.00,Shell,gasolina
+2316,,2026-06-18 14:13,retiro,10135.44,,
+1830,3,2026-03-20 18:40,compra,1646.08,Pemex,gasolina
+2296,6,2026-04-10 19:04,deposito,1032.10,,
+1344,2,2026-03-26 08:52,compra,,Spotify,ENTRETENIMIENTO
+1827,6,2026-09-28 08:36,compra,485.37,Chedraui,supermercado
+1834,15,2026-08-22 18:34,deposito,1012.22,,
+1602,12,2026-06-27 22:46,compra,90.68,Sushi Itto,restaurantes
+1763,1,2026-05-27 10:02,transferencia,724.70,,
+1240,12,2026-07-07 15:22,deposito,389.68,,
+1069,14,17/05/2026 17:17,deposito,2783.86,,
+2056,8,11/01/2026 15:28,compra,815.19,Pemex,gasolina
+2161,9,2026-05-20 19:45,compra,725.42,Izzi,servicios
+1034,2,2026-01-17 08:33,compra,68.91,Soriana,supermercado
+2234,6,2026-05-27 15:23,COMPRA,280.56,Walmart,supermercado
+2045,6,2026-08-31 21:54,transferencia,6538.48,,
+1696,12,2026-08-19 13:20,compra,$829.92,Pemex,gasolina
+2391,99,2026-02-03 16:15,compra,220.16,ETN,viajes
+2006,1,2026-08-16 12:12,compra,779.58,CFE,SERVICIOS
+1994,11,19/05/2026 19:21,COMPRA,672.29,Volaris,viajes
+1531,4,25/08/2026 08:08,COMPRA,389.41,HEB,supermercado
+1024,7,2026-06-23 13:34,retiro,625.71,,
+1512,6,2026-02-06 22:25,compra,182.46,BP,gasolina
+1603,6,2026-05-29 19:51,compra,"$1,000.43",Izzi,servicios
+1403,14,2026-08-16 22:46,compra,125.03,Walmart,supermercado
+2348,3,2026-05-24 21:12,deposito,1587.22,,
+1328,13,2026-01-19 12:13,compra,317.47,Sushi Itto,restaurantes
+1123,7,2026-05-13 07:51,compra,268.27,Ticketmaster,entretenimiento
+2424,6,2026-04-07 10:58,deposito,$732.71,,
+1554,12,2026-04-14 07:57,deposito,165787.00,,
+2425,12,2026-04-11 19:19,compra,1710.19,Aeroméxico,viajes
+1069,14,17/05/2026 17:17,deposito,2783.86,,
+2433,2,2026-01-09 17:55,compra,727.59,Soriana,supermercado
+1728,4,2026-05-18 07:45,deposito,4231.02,,
+2241,14,2026-01-06 09:55,compra,235.72,Soriana,SUPERMERCADO
+2101,12,2026-07-27 21:06,compra,486.30,Soriana,supermercado
+1009,12,2026-02-28 20:19,retiro,2289.57,,
+2421,1,2026-03-02 07:25,compra,1477.31,ETN,viajes
+2201,2,2026-04-13 10:29,deposito,10990.35,,
+2122,11,2026-03-15 17:42,compra,405.95,Sushi Itto,restaurantes
+1200,11,2026-06-06 19:49,deposito,"$5,768.24",,
+1595,15,25/01/2026 18:05,compra,169.10,Cinépolis,entretenimiento
+1515,12,2026-05-06 21:25,compra,3117.96,Shell,gasolina
+2226,0,2026-01-15 13:14,compra,$299.95,Sushi Itto, Restaurantes 
+2003,9,2026-02-24 09:34,retiro,968.33,,
+2472,11,2026-06-12 22:30,compra,53.25,Cinépolis,entretenimiento
+2288,6,2026-09-22 12:12,COMPRA,358.21,Telmex,servicios
+2392,5,2026-08-22 14:01,compra,1285.07,HEB, Supermercado 
+1378,10,2026-01-08 07:33,transferencia,$472.79,,
+2292,2,2026-08-01 18:00,deposito,"$10,342.65",,
+1817,10,2026-09-15 13:19,RETIRO,"$2,625.91",,
+1338,13,2026-03-24 17:15,transferencia,2316.08,,
+2319,10,2026-07-27 13:11,transferencia,6135.37,,
+1301,,2026-03-06 15:48,deposito,6234.52,,
+1078,6,20/03/2026 22:00,retiro,$514.15,,
+1967,4,2026-01-04 09:10,compra,$287.87,Spotify,entretenimiento
+1747,11,2026-04-03 07:11,compra,1368.78,HEB,supermercado
+1571,14,2026-01-29 15:26,deposito,5624.71,,
+2084,2,2031-03-04 07:57,deposito,15745.51,,
+1242,11,2026-08-31 18:51,compra,368.00,Netflix,entretenimiento
+1711,14,2026-05-28 19:39,DEPOSITO,940.87,,
+1300,0,2026-07-20 11:43,retiro,5810.84,,
+1004,13,2026-04-11 08:12,deposito,2092.15,,
+1868,4,13/08/2026 16:13,deposito,272.82,,
+1246,12,2026-04-07 21:23,compra,288.28,Telmex,SERVICIOS
+1621,15,2026-04-22 10:18,compra,556.73,Cinépolis,entretenimiento
+1033,1,2026-04-12 10:13,deposito,6542.05,,
+1750,14,2026-04-30 20:17,retiro,704.93,,
+1842,7,2026-01-27 21:15,compra,170.93,Airbnb,viajes
+2265,2,2026-08-04 14:35,DEPOSITO,676.53,,
+2091,5,2026-03-28 21:40,compra,2527.45,Netflix,
+1905,404,2026-07-03 09:40,compra,349.32,Ticketmaster,entretenimento
+2252,11,2031-07-13 11:07,compra,324.48,Volaris,viajes
+2020,13,2026-06-16 20:20,retiro,618.22,,
+1144,7,2026-09-29 14:42,compra,498.91,Telmex,servicios
+1947,12,2026-01-12 10:30,compra,166.44,Toks,restaurantes
+1365,1,2026-08-20 18:52,transferencia,"$14,810.92",,
+1343,4,2026-08-01 16:45,compra,172.02,BP,gasolina
+1885,6,2026-07-31 18:29,compra,-678.57,Ticketmaster, Entretenimiento 
+1611,2,2026-09-18 18:33,compra,451.09,ETN, Viajes 
+1602,12,2026-06-27 22:46,compra,90.68,Sushi Itto,restaurantes
+2083,4,2026-03-02 17:25,COMPRA,1053.12,Airbnb,viajes
+1717,10,2026-09-01 15:08,compra,422.72,Izzi,servicios
+2446,11,04/06/2026 18:37,compra,793.06,Spotify,entretenimiento
+1261,10,2026-04-03 15:47,compra,752.31,ETN,viajes
+2075,6,2026-03-20 21:08,compra,702.13,Shell,gasolina
+1441,8,2026-07-26 09:03,compra,358.20,Toks,restaurantes
+2483,11,2026-02-07 13:35,deposito,15423.87,,
+1341,13,2026-07-01 13:18,deposito,2119.43,,
+1421,4,2026-07-13 14:14,compra,443.34,Airbnb,viajes
+2197,10,2026-08-18 16:46,transferencia,15864.40,,
+1686,7,09/07/2026 17:56,compra,-885.86,Cinépolis,entretenimiento
+2492,10,2026-05-16 10:31,retiro,544.86,,
+1042,5,2026-03-13 16:09,compra,178.74,Walmart,supermercado
+1251,12,2026-09-13 21:41,compra,816.46,Soriana,supermercado
+1258,7,2026-08-01 13:16,deposito,430.77,,
+2043,12,2026-04-22 07:03,compra,251.62,Telmex,servicios
+1891,2,2026-09-03 18:32,retiro,6654.41,,
+1171,15,2026-06-22 07:53,deposito,334.32,,
+2379,11,2026-03-07 11:51,compra,434.24,Spotify,entretenimiento
+1388,13,2026-09-20 21:56,retiro,804.07,,
+2090,14,2026-04-22 18:03,COMPRA,1059.64,Shell,gasolina
+2388,11,2026-01-08 10:35,compra,1014.70,Walmart,supermercado
+2081,,2026-04-12 22:05,deposito,11396.40,,
+1709,7,22/01/2026 13:50,transferencia,9566.49,,
+1655,4,2026-09-19 08:18,COMPRA,695.91,Cinépolis,entretenimiento
+2018,8,2026-09-20 21:07,deposito,6285.08,,
+2040,1,2026-02-15 19:03,deposito,4204.07,,
+1224,9,2026-09-13 16:12,transferencia,2501.25,,
+1853,15,2026-08-17 09:09,RETIRO,-5966.84,,
+1908,3,2026-04-30 10:45,retiro,1586.77,,
+2029,8,2026-03-15 07:53,compra,241.45,Toks,restaurantes
+1745,14,2026-05-28 19:24,deposito,-4947.99,,
+2275,14,2026-08-31 14:20,compra,98.94,Sushi Itto,RESTAURANTES
+2450,5,2026-05-21 11:51,compra,88.57,Ticketmaster, Entretenimiento 
+2307,15,2026-03-13 16:37,compra,1498.11,Izzi,servicios
+1926,13,2026-02-25 11:18,compra,99.59,Spotify, Entretenimiento 
+1538,12,2026-04-18 08:28,compra,$851.17,Netflix,ENTRETENIMIENTO
+1736,10,2026-06-28 13:49,transferencia,331.25,,
+2117,15,2026-09-29 18:23,retiro,10394.50,,
+2349,12,2026-04-12 10:27,deposito,14835.17,,
+1248,8,2026-03-08 16:45,deposito,5840.04,,
+1474,14,2026-05-30 17:16,compra,702.51,Toks,RESTAURANTES
+2193,8,2026-08-21 11:23,compra,-747.25,Soriana,supermercado
+2472,11,2026-06-12 22:30,compra,53.25,Cinépolis,entretenimiento
+2395,9,2026-08-06 13:05,transferencia,1366.60,,
+1801,13,2031-04-03 09:43,deposito,456.07,,
+1917,13,2026-01-21 12:40,compra,112.10,Netflix,entretenimiento
+2165,13,2026-07-11 11:12,compra,890.41,Soriana,supermercado
+1433,2,2026-06-16 12:40,compra,280.02,Toks,restaurantes
+1963,7,2026-01-01 07:29,compra,708.46,Chedraui,
+1953,14,2026-02-11 13:55,compra,175.09,Toks,restaurantes
+1188,15,2026-09-07 21:06,compra,1323.52,Chedraui,supermercado
+2156,7,2026-08-25 10:21,transferencia,5280.26,,
+1481,12,2026-01-16 17:57,compra,1560.22,CFE,servicios
+1448,13,2026-04-27 20:21,deposito,2546.94,,
+2444,2,2026-05-30 12:58,compra,72.02,Airbnb,viajes
+1121,10,2026-01-08 08:17,compra,316.29,La Mariposa,restaurantes
+1243,11,2026-04-25 09:30,compra,510.42,BP,gasolina
+1864,2,2026-01-10 16:52,compra,522.33,Spotify,entretenimiento
+1270,9,2026-09-01 07:33,retiro,"$4,907.55",,
+2180,2,2026-07-29 08:17,compra,55.83,Volaris,VIAJES
+2372,7,2026-05-23 11:39,retiro,449.68,,
+1278,15,2026-07-01 13:37,retiro,1014.31,,
+1570,15,2026-08-15 14:19,compra,598.35,HEB,supermercado
+2032,14,2026-04-04 12:59,deposito,431.49,,
+2289,14,2026-05-14 16:35,retiro,1394.04,,
+2375,9,2026-02-28 20:50,deposito,592.72,,
+2198,5,2026-04-14 19:55,compra,1845.65,Cinépolis, Entretenimiento 
+1964,5,2026-03-13 11:10,compra,376.17,HEB,
+1468,8,2026-01-07 18:11,deposito,1391.28,,
+1924,8,2026-04-15 18:20,COMPRA,2044.40,Vips,restaurantes
+1569,6,2026-07-19 11:39,compra,560.03,Walmart,supermercado
+2425,12,2026-04-11 19:19,compra,1710.19,Aeroméxico,viajes
+1792,7,2026-05-13 15:03,deposito,522.95,,
+1900,12,2026-04-12 14:43,compra,109.62,Shell,gasolina
+1308,8,2026-01-07 11:17,COMPRA,882.07,Shell,GASOLINA
+2194,1,2026-04-29 13:50,compra,414.50,La Mariposa,restaurantes
+2246,14,2026-04-29 20:02,COMPRA,674.83,Shell,GASOLINA
+2485,5,2026-07-24 14:00,compra,858.57,Pemex,GASOLINA
+2470,1,2026-01-20 15:04,deposito,,,
+2159,11,2026-07-22 18:09,transferencia,263.51,,
+2481,,09/06/2026 21:51,compra,569.89,Aeroméxico,viajes
+1085,3,2026-07-02 10:18,retiro,4056.63,,
+1457,4,2026-04-22 09:01,compra,313.32,Vips, Restaurantes 
+1974,8,2026-05-19 18:22,retiro,5425.37,,
+1562,1,2026-09-28 14:23,retiro,417.24,,
+1615,15,2026-06-28 11:53,compra,171.73,Shell,gasolina
+1017,11,2026-03-10 13:38,compra,-137.69,Telmex,servicios
+2031,9,2026-07-31 10:00,compra,$384.44,Pemex,gasolina
+1754,12,2026-08-16 10:45,compra,323.25,Sushi Itto, Restaurantes 
+1825,5,2026-05-25 10:28,compra,294.20,Airbnb, Viajes 
+1610,8,2026-05-20 15:14,COMPRA,207.52,Shell,gasolina
+2461,2,2026-08-21 09:26,deposito,745.04,,
+2397,4,2031-03-05 19:17,DEPOSITO,1485.74,,
+2077,9,2026-07-07 16:37,compra,261.13,Airbnb,viajes
+1915,4,2026-06-19 07:40,retiro,732.88,,
+1279,14,2026-03-09 07:16,retiro,,,
+2272,2,2026-05-24 10:58,compra,1152.50,Telcel,SERVICIOS
+2269,8,2026-03-20 22:42,deposito,691.21,,
+1784,10,2026-08-06 21:39,compra,740.89,CFE,servicios
+2182,,2026-05-11 10:03,compra,$537.02,HEB,supermercado
+1337,7,2026-06-23 16:18,compra,412.32,Izzi,servicios
+1389,5,2026-03-25 21:00,compra,194.32,Soriana,super
+1280,6,2026-02-11 18:50,compra,1076.10,CFE,servicios
+1661,9,2026-05-23 21:30,compra,741.97,Sushi Itto,
+1981,2,2026-06-21 20:36,compra,$64.24,Izzi,servicios
+2353,10,2026-06-29 11:52,compra,445.92,Netflix,entretenimiento
+1494,11,2026-07-05 10:51,deposito,4755.53,,
+2171,3,2026-09-16 12:40,compra,$313.86,BP, Gasolina 
+1907,2,2026-06-11 17:23,deposito,105582.00,,
+1071,4,2026-02-20 14:50,transferencia,1846.30,,
+1197,15,2026-05-09 21:43,retiro,8875.27,,
+1435,6,2026-07-02 11:40,compra,356.44,Aeroméxico,viajes
+2017,3,2026-06-20 08:20,compra,167.18,Sushi Itto,restaurantes
+1291,4,20/03/2026 07:58,deposito,538.55,,
+2274,1,2031-09-27 09:49,compra,393.87,Cinépolis,ENTRETENIMIENTO
+2331,2,2026-02-11 14:12,deposito,1805.05,,
+1753,12,2026-02-18 21:03,compra,$458.07,Shell,gasolina
+1876,15,2026-09-03 15:43,deposito,1172.06,,
+1591,6,2026-09-30 09:16,compra,1183.63,Ticketmaster,entretenimiento
+1992,9,2026-05-10 09:24,compra,208.91,Sushi Itto,restaurantes
+2144,14,2026-01-03 17:59,compra,371.39,Soriana,supermercado
+1548,0,2026-02-28 08:28,compra,55.72,BP,gasolina
+1036,1,2026-03-19 16:20,compra,387.25,CFE,servicios
+1201,15,2026-05-10 09:48,compra,-235.70,Volaris,viajes
+2082,7,2026-09-18 12:52,deposito,66482.00,,
+1018,5,2026-01-14 14:42,retiro,14741.29,,
+1811,11,2026-07-22 20:49,retiro,796.33,,
+2181,12,2026-02-03 12:02,compra,"$1,672.26",Shell, Gasolina 
+1543,9,2026-09-06 14:25,compra,739.37,Pemex,GASOLINA
+1232,12,2026-03-04 15:31,compra,,CFE,SERVICIOS
+2001,13,2026-06-01 13:29,compra,172.96,Telcel,servicios
+1839,8,2026-04-16 19:44,compra,180.89,Toks,restaurantes
+1418,11,2026-08-14 10:38,compra,321.12,Netflix,entretenimiento
+1035,12,2026-03-17 21:17,compra,1352.67,BP,gasolina
+2447,3,2026-06-18 18:43,compra,373.76,Spotify,entretenimiento
+1185,4,2026-04-29 20:38,compra,342.27,Izzi,servicios
+1458,3,2026-03-17 21:04,compra,-506.05,CFE,SERVICIOS
+2412,6,2026-09-05 15:18,compra,2605.38,Volaris,viajes
+1134,,2026-02-28 17:31,compra,402.74,Vips,restaurantes
+2208,7,2026-07-13 19:41,deposito,$503.98,,
+1597,11,2026-08-04 13:50,retiro,2060.78,,
+1180,13,2026-03-23 07:23,deposito,7124.45,,
+1561,13,2026-03-19 16:22,compra,1545.34,Netflix,entretenimiento
+1479,10,2026-05-18 18:35,deposito,1368.13,,
+1428,14,2026-04-27 21:55,retiro,7036.12,,
+2465,3,2026-03-08 12:33,compra,409.84,Sushi Itto, Restaurantes 
+2335,9,15/01/2026 09:58,compra,168.63,Ticketmaster,
+1989,13,2026-04-12 14:14,deposito,6679.42,,
+1727,1,2026-02-02 18:34,deposito,1351.34,,
+1518,0,2026-03-24 19:53,COMPRA,211.65,Telcel,servicios
+2160,9,2026-02-10 22:23,DEPOSITO,7019.43,,
+2300,15,18/02/2026 09:01,compra,248.84,Pemex,gasolina
+2185,9,2026-01-28 21:43,retiro,5881.93,,
+2139,4,2026-09-12 09:56,compra,503.51,Sushi Itto,restaurantes
+1772,5,2026-05-12 13:16,compra,1337.06,Volaris,viajes
+1010,10,2026-01-16 15:28,retiro,911.31,,
+1957,11,2026-07-07 16:05,compra,155.50,La Mariposa,restaurantes
+1617,10,2026-06-16 14:53,deposito,2178.43,,
+2360,6,2026-01-12 13:57,compra,358.98,Shell,gasolina
+2068,1,2026-06-09 08:48,compra,768.11,Telmex,servicios
+1708,1,2026-09-29 17:25,compra,406.26,ETN,viajes
+1993,10,2026-03-20 12:27,transferencia,557.03,,
+1030,15,2026-08-09 13:23,compra,399.97,Ticketmaster,entretenimiento
+1585,404,2026-03-13 13:47,deposito,330.45,,
+1558,13,2026-09-11 11:09,Compra ,141.72,Spotify,entretenimiento
+1499,6,2026-08-28 17:25,deposito,$650.49,,
+1685,13,2026-07-13 20:31,compra,472.84,La Mariposa, Restaurantes 
+2393,7,2026-03-28 12:25,transferencia,705.82,,
+2103,3,2026-02-06 17:15,transferencia,1327.47,,
+1723,10,2026-05-04 20:14,transferencia,11861.91,,
+1429,13,2026-01-09 11:26,deposito,1235.68,,
+2126,1,2026-05-23 22:41,compra,496.42,Sushi Itto,restaurantes
+2350,7,2026-08-19 07:14,deposito,16840.84,,
+1006,15,2026-04-18 20:49,deposito,14286.54,,
+1290,5,2026-08-16 15:15,deposito,"$1,056.47",,
+1874,5,2026-04-15 18:58,retiro,"$7,034.37",,
+1062,8,2026-04-21 15:29,transferencia,256.53,,
+1863,8,2026-04-01 17:12,compra,506.84,Airbnb,viajes
+2382,5,21/03/2026 12:23,compra,174.80,Walmart,supermercado
+2137,13,2026-04-29 14:26,compra,249.58,Netflix, Entretenimiento 
+2326,7,2026-05-08 16:19,deposito,3009.02,,
+1203,8,23/07/2026 10:49,deposito,3083.15,,
+2060,3,2026-01-18 16:54,TRANSFERENCIA,7447.26,,
+1322,14,2026-03-21 09:06,deposito,66579.00,,
+1506,6,2026-09-06 20:19,transferencia,6984.12,,
+2136,2,24/07/2026 12:26,compra,$230.73,Sushi Itto,restaurantes
+2477,8,2026-02-01 10:59,retiro,1072.94,,
+1371,14,2026-08-07 18:03,compra,169.26,BP, Gasolina 
+1859,13,2026-05-31 12:47,deposito,7446.68,,
+1423,14,2026-07-26 11:38,retiro,"$3,765.92",,
+1501,3,2026-09-23 10:11,compra,513.69,HEB,supermercado
+1805,3,2026-09-14 08:40,Compra ,82.72,BP,gasolina
+1315,14,2026-07-03 09:59,compra,382.37,Telmex,servicios
+1313,8,2026-02-23 19:28,compra,604.49,Shell,GASOLINA
+1546,3,2026-07-14 13:35,retiro,589.16,,
+1220,2,2026-05-27 08:19,deposito,373.52,,
+1133,0,2026-01-17 10:37,compra,305.20,Cinépolis,entretenimiento
+2065,2,2026-06-11 17:53,deposito,478.57,,
+1356,14,2026-09-24 11:27,retiro,3008.17,,
+1089,12,23/03/2026 10:36,deposito,"$1,230.12",,
+1091,9,2026-02-09 22:19,compra,263.91,Telmex,servicios
+1215,14,2026-06-21 22:08,retiro,2350.56,,
+1771,4,03/05/2026 20:23,deposito,15550.12,,
+1689,15,2026-03-30 14:36,compra,945.83,Sushi Itto,restaurantes
+2107,12,2026-05-02 21:22,compra,-206.92,La Mariposa,restaurantes
+1703,9,2026-07-02 10:35,deposito,,,
+1912,9,2026-02-07 13:19,compra,137.69,Izzi,servicios
+1775,9,2026-07-18 16:02,compra,896.71,Izzi,servicios
+1415,9,2026-03-13 21:16,compra,1196.69,Soriana,supermercado
+2113,6,2026-05-19 10:52,deposito,1010.53,,
+1976,14,2026-05-23 15:36,deposito,,,
+2482,11,2026-09-06 09:21,deposito,16104.06,,
+1732,1,2026-03-05 14:09,compra,441.43,Shell,gasolina
+1046,7,2026-06-23 13:10,compra,2669.67,Walmart,supermercado
+1730,10,2026-04-16 11:31,transferencia,1443.41,,
+2087,7,2026-05-28 15:14,transferencia,7376.17,,
+1451,12,2031-01-26 21:03,compra,592.63,Netflix,entretenimiento
+2253,8,04/06/2026 10:39,compra,228.04,Vips,restaurantes
+2175,5,2026-09-20 15:41,retiro,-459.60,,
+2086,6,2026-06-10 20:37,retiro,668.38,,
+1938,15,2026-03-19 17:19,compra,541.06,Spotify, Entretenimiento 
+1351,7,2026-06-12 11:36,compra,239.06,BP,gasolina
+2386,4,2026-08-07 07:39,compra,499.46,BP,gasolina
+1901,12,2026-04-17 09:10,deposito,6639.95,,
+2369,7,19/02/2026 08:43,retiro,509.37,,
+1380,8,2026-06-27 19:39,RETIRO,276761.00,,
+1346,11,2026-09-19 14:22,compra,178.18,Toks,restaurantes
+2280,10,2026-05-16 22:29,retiro,1095.06,,
+2287,2,2026-02-22 20:41,compra,238.99,CFE,servicios
+1514,12,2026-06-01 12:57,compra,2111.41,Telcel,SERVICIOS
+1895,9,2026-03-30 08:07,retiro,"$1,459.25",,
+1634,2,2026-08-03 07:57,compra,737.64,Soriana,supermercado
+1097,15,2026-03-14 08:25,deposito,589.85,,
+2463,15,29/04/2026 09:06,compra,316.53,HEB,supermercado
+2130,14,2026-04-25 21:17,deposito,,,
+2059,7,2026-08-16 08:08,retiro,508.85,,
+1363,6,2026-04-19 22:35,compra,$396.56,Aeroméxico,viajes
+1098,14,2026-05-15 19:21,deposito,367.17,,
+1155,13,2026-05-20 10:37,compra,716.01,Pemex,gasolina
+2408,3,2026-03-10 13:43,compra,$373.12,Spotify,entretenimiento
+1306,3,2026-09-12 09:05,COMPRA,240.43,Ticketmaster,ENTRETENIMIENTO
+1196,6,2026-06-29 08:29,compra,440.06,Aeroméxico,viajes
+1471,3,2026-08-12 19:01,compra,205.51,Netflix,entretenimiento
+1001,0,2026-03-13 08:00,Compra ,1396.72,Ticketmaster,entretenimiento
+1190,5,2026-02-07 19:44,retiro,4584.75,,
+1960,5,2026-06-14 18:23,compra,373.41,Aeroméxico,viajes
+1764,15,2026-03-11 13:44,compra,"$2,082.91",Telmex,servicios
+1485,13,2026-06-17 19:51,compra,685.00,Walmart, Supermercado 
+1043,8,2026-06-04 09:43,compra,188.70,Telmex,servicios
+1977,3,2031-01-02 10:05,compra,$796.97,ETN,viajes
+1572,9,2026-09-03 17:50,deposito,-7121.62,,
+1436,11,2026-05-27 20:48,compra,216.91,Chedraui,supermercado
+1368,2,2026-09-01 09:14,compra,578.84,Walmart,supermercado
+2061,3,2026-03-17 07:01,deposito,,,
+1828,2,2026-03-14 20:53,retiro,7995.25,,
+1965,5,2026-05-21 13:41,retiro,7378.31,,
+1146,12,2026-04-01 14:15,COMPRA,117.31,Cinépolis,entretenimiento
+2228,5,2026-01-25 10:55,transferencia,2678.28,,
+1204,10,2026-03-10 17:37,compra,319.68,La Mariposa,restaurantes
+1050,9,28/06/2026 16:25,compra,586.13,Pemex,gasolina
+1578,6,2026-07-17 19:35,compra,247.26,Chedraui,SUPERMERCADO
+2019,5,2026-09-02 13:02,transferencia,5158.08,,
+1015,13,2026-08-19 13:58,compra,391.10,Pemex, Gasolina 
+1028,2,2026-09-30 15:15,retiro,268.09,,
+2366,7,2026-04-30 07:19,compra,$761.11,Walmart,supermercado
+1186,12,2026-04-14 09:58,TRANSFERENCIA,2440.19,,
+2438,5,2026-04-23 07:45,depósito,1123.86,,
+2121,12,2026-01-15 19:53,deposito,7281.09,,
+2140,15,2026-08-26 09:06,compra,1347.88,HEB,supermercado
+1871,12,2026-04-30 10:18,compra,1205.20,Telcel,servicios
+1274,15,2026-08-31 11:02,deposito,,,
+2484,5,2026-06-24 14:23,compra,68.18,Chedraui,supermercado
+2413,8,2026-09-19 12:55,deposito,10650.15,,
+1781,8,2026-04-17 17:33,retiro,$615.62,,
+2085,12,2026-02-16 08:27,Compra ,531.27,Chedraui, Supermercado 
+1600,6,10/07/2026 13:33,transferencia,"$1,276.56",,
+2212,9,2026-07-08 15:31,transferencia,6608.42,,
+1657,2,2026-03-30 09:45,compra,625.09,Ticketmaster,entretenimiento
+1219,4,2026-04-20 16:27,compra,679.50,HEB,supermercado
+1227,8,2026-03-09 12:15,compra,162.96,Izzi,servicios
+2495,3,2026-05-15 17:18,deposito,486.13,,
+2225,4,2026-09-30 11:04,compra,452.04,Shell,gasolina
+1104,,2026-07-14 19:21,deposito,2457.15,,
+1052,2,2026-04-23 17:53,transferencia,2869.93,,
+1485,13,2026-06-17 19:51,compra,"$1,716.38",Walmart, Supermercado 
+1910,4,2026-08-29 13:38,compra,1177.33,Telcel,SERVICIOS
+1103,10,2026-07-18 08:42,deposito,-831.26,,
+1759,14,2026-03-29 21:28,transferencia,1411.97,,
+1329,8,2026-08-21 18:40,Compra ,103.58,Telmex,servicios
+2338,6,2026-01-27 22:15,compra,284.51,Cinépolis,entretenimiento
+2174,7,2026-04-19 11:33,compra,502.37,Sushi Itto,
+1813,14,2026-02-02 07:17,compra,533.28,Netflix,entretenimiento
+1427,7,2026-08-15 11:34,deposito,$544.39,,
+1631,5,2026-02-01 07:36,compra,187.83,CFE,servicios
+1075,1,2026-08-16 10:20,transferencia,1550.08,,
+1880,7,2026-01-05 19:01,deposito,600.10,,
+2104,8,2026-07-24 22:55,transferencia,7103.23,,
+1127,4,2026-07-26 22:47,compra,150.58,ETN,viajes
+1628,3,24/09/2026 19:58,compra,659.39,BP,gasolina
+2235,6,2026-09-13 12:16,deposito,-17170.99,,
+1414,3,2026-07-23 07:19,COMPRA,882.52,Vips,restaurantes
+1453,6,2026-01-18 12:06,retiro,1713.83,,
+1625,8,03/06/2026 10:54,compra,185.39,Vips,restaurantes
+2404,12,2026-09-22 17:47,transferencia,1286.27,,
+1163,13,2026-05-06 10:38,retiro,1101.15,,
+1988,14,2026-07-31 14:51,transferencia,12599.70,,
+1653,,2026-07-15 20:16,transferencia,1461.06,,
+1264,5,2026-07-07 14:22,retiro,"$16,752.25",,
+2094,0,2026-06-13 09:19,DEPOSITO,6171.57,,
+1488,2,2026-07-13 07:53,compra,363.86,Vips,restaurantes
+1626,1,2026-04-22 19:59,compra,140.04,HEB,supermercado
+1860,2,2026-07-29 19:13,retiro,,,
+2158,15,21/03/2026 09:05,depósito,"$1,361.89",,
+2333,4,2026-01-07 11:13,retiro,337.11,,
+1299,2,2026-05-28 08:01,deposito,737.08,,
+1115,15,2026-05-26 22:55,retiro,2596.84,,
+1700,6,2026-04-20 10:02,deposito,15564.43,,
+1641,4,2026-03-19 20:56,compra,$153.45,Ticketmaster,ENTRETENIMIENTO
+2312,9,2026-07-25 18:51,compra,194.39,Sushi Itto,restaurantes
+2167,3,2026-07-20 09:43,compra,378.89,ETN,viajes
+2240,7,2026-09-12 09:41,compra,189.54,Telmex,servicios
+1303,5,2026-07-08 09:39,transferencia,2626.41,,
+1008,8,2026-06-05 13:06,transferencia,$272.49,,
+1997,15,2026-06-05 15:41,compra,504.47,CFE,servicios
+1352,13,2026-04-21 11:04,compra,296.11,Telmex,servicios
+2035,,2026-04-19 10:41,transferencia,700.05,,
+2428,10,2026-08-02 13:42,compra,259.34,Volaris,viajes
+1191,3,2026-02-12 12:20,compra,20636.00,Sushi Itto,restaurantes
+2399,7,2026-06-06 11:10,transferencia,473.93,,
+1399,404,2026-03-18 21:34,compra,270.56,Vips,RESTAURANTES
+1533,15,2026-03-14 12:54,compra,180.92,Telcel, Servicios 
+2290,4,2026-03-25 20:57,transferencia,302.51,,
+1767,5,2026-07-31 13:51,compra,329.44,ETN,viajes
+1922,6,2026-01-19 19:41,transferencia,1220.73,,
+1129,7,2026-07-27 22:26,compra,274.90,Telcel,servicios
+1580,2,2026-06-29 09:21,compra,196.01,Walmart,supermercado
+2014,11,2031-05-30 14:37,compra,,Soriana,SUPERMERCADO
+1945,11,2026-07-19 08:10,compra,423.58,Toks,restaurantes
+1268,3,2026-03-01 22:31,compra,375.11,Chedraui,supermercado
+1718,13,2026-09-19 19:05,compra,270.65,CFE,servicios
+1972,9,2026-08-02 11:14,compra,127.13,Toks,restaurantes
+1975,14,2026-07-04 09:02,RETIRO,"$2,957.15",,
+2448,3,2026-04-29 20:52,compra,677.68,Netflix,entretenimiento
+2439,9,2026-02-07 11:49,compra,230.08,Aeroméxico,viajes
+1360,5,2031-09-24 13:39,compra,$439.18,Telmex,SERVICIOS
+2211,7,2026-03-25 17:53,compra,$308.68,BP,gasolina
+2263,2,2026-07-05 17:31,compra,430.36,Spotify, Entretenimiento 
+2120,13,2026-07-23 17:45,compra,$96.48,Pemex,gasolina
+2441,12,2026-04-04 20:46,COMPRA,1584.96,BP,gasolina
+1847,12,2026-05-19 11:46,compra,345.96,Telmex,servicios
+1467,12,2026-09-28 10:03,deposito,724.79,,
+1930,1,2026-01-15 21:49,deposito,2925.63,,
+1164,15,2026-01-15 15:40,compra,-87.01,Chedraui,supermercado
+1814,11,2026-02-15 07:06,deposito,5975.92,,
+1725,4,2026-03-07 19:15,deposito,6068.68,,
+1903,4,05/05/2026 21:04,retiro,4419.84,,
+1310,12,2026-08-30 19:26,retiro,1480.12,,
+2143,5,2026-06-09 08:04,compra,551.02,La Mariposa,restaurantes
+1332,15,2026-03-25 17:13,deposito,594.54,,
+2394,9,2026-05-02 14:14,compra,903.33,Airbnb,viajes
+1143,2,2026-01-02 17:25,compra,134.75,Telmex,servicios
+1808,13,2026-08-24 09:04,retiro,"$2,967.89",,
+1167,5,2026-07-31 22:11,compra,1995.08,Spotify,entretenimiento
+1882,13,2026-03-11 11:41,compra,$804.34,Aeroméxico,viajes
+1335,6,2026-07-06 11:52,compra,$195.08,Netflix,entretenimiento
+2332,15,2026-09-08 10:28,retiro,878.41,,
+2406,9,2026-03-27 22:16,compra,216.52,HEB,supermercado
+1719,6,2026-06-03 10:51,compra,285.54,Sushi Itto,restaurantes
+1840,7,2026-09-11 12:54,compra,876.73,Walmart,supermercado
+1080,9,2026-05-02 11:54,compra,1879.38,Telcel,servicios
+1367,1,2026-05-17 18:58,DEPOSITO,667.87,,
+2308,14,2026-07-01 09:57,compra,739.06,Spotify,entretenimento
+2169,12,2026-06-15 15:56,deposito,5780.03,,
+1637,6,2026-03-10 18:03,compra,807.03,Pemex,gasolina
+1217,9,2026-09-29 14:51,compra,,Telmex,servicios
+1579,6,2026-09-14 22:01,deposito,1444.92,,
+2259,,2026-01-08 11:59,compra,943.72,Sushi Itto,restaurantes
+2324,4,2026-02-08 22:08,deposito,15324.77,,
+1176,2,2026-05-02 15:16,compra,616.74,CFE,servicios
+2028,15,2026-07-04 09:52,compra,$248.95,Vips,RESTAURANTES
+1358,14,21/01/2026 17:08,deposito,1169.43,,
+1980,404,2026-03-16 19:48,compra,1533.44,Ticketmaster,entretenimiento
+1292,2,2026-05-09 12:45,compra,556.14,Cinépolis,entretenimiento
+1845,12,2026-07-05 17:53,compra,902.54,La Mariposa,restaurantes
+1478,11,2026-07-07 12:30,compra,60.66,Izzi,servicios
+1229,15,2026-04-16 15:14,compra,1228.24,Walmart, Supermercado 
+1658,10,2026-07-04 12:17,compra,376.34,Volaris,viajes
+1650,5,2026-07-26 13:18,compra,592.87,BP,gasolina
+2245,,2026-09-03 15:19,compra,513.87,Aeroméxico,viajes
+1795,15,2026-06-26 11:11,deposito,2230.27,,
+1090,8,2026-07-16 21:38,compra,388.30,Toks, Restaurantes 
+1770,1,2026-07-02 21:16,compra,-875.80,Cinépolis,entretenimiento
+1149,5,2026-04-26 21:17,deposito,593.13,,
+1247,3,2031-07-02 12:39,transferencia,338.34,,
+1108,6,2026-03-02 14:55,compra,467.89,BP,gasolina
+1100,5,2026-06-12 19:03,transferencia,4194.32,,
+1504,4,2026-06-07 07:09,compra,398.08,Ticketmaster,entretenimiento
+1804,8,2026-08-24 11:06,deposito,13044.24,,
+2445,9,2026-01-06 08:00,COMPRA,775.35,Netflix,ENTRETENIMIENTO
+1684,10,2026-06-03 14:46,compra,124.59,Netflix,entretenimiento
+1971,7,2026-08-19 13:22,compra,733.24,Ticketmaster,entretenimiento
+1647,9,2026-03-25 18:06,compra,180.63,Walmart,supermercado
+1909,12,2026-07-14 16:24,compra,2282.51,Volaris,viajes
+1366,4,2026-07-02 14:41,compra,27.18,Spotify,entretenimiento
+1933,2,2026-01-28 10:36,compra,1742.37,Soriana, Supermercado 
+1348,13,2026-09-26 20:08,compra,,Sushi Itto,restaurantes
+1778,6,01/06/2026 11:39,compra,192.01,Vips,restaurantes
+1259,3,2026-08-08 10:09,compra,295.43,La Mariposa, Restaurantes 
+1832,3,2026-05-02 15:04,retiro,-436.57,,
+1852,9,2031-06-11 22:14,deposito,7442.05,,
+1407,9,2026-08-21 10:42,compra,331.19,Shell,gasolina
+1673,4,2026-01-10 12:52,deposito,6573.63,,
+1060,4,2026-03-16 18:36,compra,,Walmart,supermercado
+2132,7,2026-06-05 10:50,compra,189.30,BP,gasolina
+2435,1,2026-01-20 15:17,compra,103.42,Pemex,
+1734,13,2026-07-24 17:30,deposito,3103.44,,
+1393,12,2026-02-15 16:41,compra,,Walmart,SUPERMERCADO
+1464,2,2026-01-25 08:34,transferencia,5358.89,,
+2143,5,2026-06-09 08:04,compra,551.02,La Mariposa,restaurantes
+1721,5,2026-02-17 17:22,transferencia,377.15,,
+1319,12,2026-03-22 22:25,retiro,676.39,,
+1880,7,2026-01-05 19:01,deposito,600.10,,
+2238,10,2026-07-31 18:51,compra,79.26,La Mariposa,restaurantes
+2264,8,2026-01-30 14:33,deposito,"$1,961.35",,
+2213,10,2026-04-06 17:13,compra,139.73,Sushi Itto,restaurantes
+2022,4,2026-04-17 09:16,retiro,-1156.60,,
+1312,7,2026-07-09 17:29,compra,312.22,BP,gasolina
+1347,,2026-02-27 22:29,deposito,432.02,,
+1527,,2026-03-30 17:06,compra,401.83,Cinépolis,entretenimiento
+1614,6,2026-01-18 11:01,retiro,810.31,,
+1565,5,2026-09-09 15:30,compra,77.94,Ticketmaster,entretenimiento
+1495,15,2026-05-30 07:21,deposito,8207.08,,
+1209,10,2026-07-14 12:16,compra,471.85,Shell,gasolina
+1241,2,2026-07-14 11:19,compra,$576.55,BP,gasolina
+2429,9,2026-06-24 08:31,transferencia,1326.05,,
+2462,12,2026-09-08 12:26,retiro,310.85,,
+1396,1,2026-03-01 09:01,retiro,2966.94,,
+2025,8,2026-07-20 11:44,deposito,5761.85,,
+1831,13,2026-08-27 10:44,compra,165.59,Chedraui, Supermercado 
+1522,1,2026-08-06 16:11,compra,480.75,Soriana,supermercado
+1275,10,2026-06-10 10:40,compra,387.17,Telmex, Servicios 
+1644,13,2026-04-29 10:23,compra,390.78,Pemex,gasolina
+2250,12,06/07/2026 20:37,compra,-130.20,Pemex,gasolina
+1503,1,2026-01-14 14:00,deposito,6389.63,,
+2100,4,2026-03-12 13:11,deposito,1371.11,,
+2004,14,13/09/2026 08:57,transferencia,1041.64,,
+1941,3,27/08/2026 18:13,compra,957.15,La Mariposa,restaurantes
+2304,14,2026-06-24 09:57,compra,-635.68,Telmex,servicios
+1779,2,2026-08-17 11:13,compra,129.49,Cinépolis,entretenimiento
+2294,6,2026-09-10 07:13,compra,145.23,Toks,restaurantes
+2185,9,2026-01-28 21:43,retiro,5881.93,,
+2058,1,05/05/2026 12:48,depósito,2719.05,,
+1195,14,2026-06-24 22:59,retiro,12324.96,,
+2148,,09/08/2026 18:26,deposito,12105.44,,
+1002,7,2026-04-17 14:08,deposito,4460.68,,
+2199,10,2026-08-04 08:30,deposito,5226.15,,
+1398,7,2026-05-29 16:34,compra,1689.43,Toks, Restaurantes 
+1432,12,2026-05-30 17:35,COMPRA,1669.65,Cinépolis,ENTRETENIMIENTO
+1630,1,2026-08-19 16:50,retiro,663.09,,
+2042,14,2026-05-15 20:08,retiro,5480.52,,
+1563,10,2026-07-05 07:48,retiro,$535.39,,
+1153,2,2026-06-11 11:25,compra,259.13,BP,gasolina
+2218,11,2026-06-16 11:14,deposito,"$17,269.75",,
+1316,15,2026-01-18 09:36,deposito,1515.48,,
+2363,7,2026-03-03 14:24,compra,540.59,BP,gasolina
+1355,4,2026-06-30 21:19,compra,190.26,Cinépolis,entretenimiento
+1929,,2026-06-02 14:12,compra,771.88,Toks, Restaurantes 
+1444,6,2026-06-01 22:58,depósito,4520.99,,
+1741,8,2026-04-10 22:21,deposito,4291.19,,
+1879,6,2026-07-20 08:08,compra,275.32,Pemex,
+2387,4,2026-05-17 17:03,compra,718.82,Vips,restaurante
+2177,15,2026-08-02 10:22,retiro,2694.14,,
+2222,4,2026-02-19 16:15,deposito,-648.48,,
+1053,9,2026-02-22 17:05,compra,163.00,Cinépolis,entretenimiento
+2150,14,2026-07-07 10:19,compra,1168.48,Telcel,servicios
+1135,7,2026-09-01 09:47,compra,2044.58,Vips,restaurantes
+2282,1,2031-05-25 15:20,compra,546.42,Cinépolis,entretenimiento
+1716,1,2026-08-11 11:14,transferencia,644.34,,
+1385,14,2026-06-30 18:54,compra,485.61,ETN,viajes
+1302,9,2026-03-15 12:31,DEPOSITO,1901.05,,
+1851,14,2026-05-11 10:51,retiro,17270.99,,
+1760,14,2026-02-03 18:42,deposito,1127.09,,
+1491,,2026-09-06 21:29,compra,78.74,Chedraui,supermercado
+1469,4,2026-04-19 13:06,deposito,1035.89,,
+1022,2,2026-04-11 11:53,compra,714.47,Volaris,VIAJES
+1226,15,2026-09-17 10:40,Compra ,418.84,Chedraui,supermercado
+2330,10,2026-07-10 18:42,compra,465.09,Airbnb,viajes
+1070,11,2026-08-02 18:21,deposito,12993.48,,
+2361,11,2026-03-18 20:11,Compra ,762.34,Toks, Restaurantes 
+1766,7,2026-04-10 17:07,retiro,335.43,,
+1633,5,2026-04-08 19:53,transferencia,628.53,,
+1939,6,2026-06-20 08:11,compra,691.90,Chedraui,super
+1159,13,2026-09-16 11:53,transferencia,6642.98,,
+2064,8,2026-09-08 18:19,compra,269.94,Netflix,entretenimento
+1541,3,2026-06-22 19:44,COMPRA,2988.09,Soriana,
+2206,15,2026-05-07 13:00,deposito,1924.96,,
+1996,4,2026-04-25 17:14,deposito,711.97,,
+2411,5,2026-05-25 13:57,compra,142.00,Netflix,entretenimiento
+1422,12,2026-07-24 21:42,deposito,620.40,,
+2475,15,2026-08-29 07:01,compra,113.91,Pemex,
+1210,11,2026-09-03 10:53,compra,318.95,Aeroméxico,VIAJES
+1326,2,2026-05-18 18:48,depósito,1061.43,,
+1236,15,2026-06-03 16:27,retiro,1043.95,,
+1381,11,2026-01-07 11:36,compra,704.84,Volaris,viajes
+1783,1,2026-02-15 12:48,compra,273.11,Pemex,gasolina
+1256,6,2026-08-27 17:08,transferencia,590.94,,
+1985,10,2026-05-24 07:08,compra,153.91,Soriana,supermercado
+1906,11,2026-09-16 16:46,compra,190.52,Netflix,entretenimiento
+2368,7,2026-05-03 19:41,deposito,-1381.53,,
+1704,,2026-05-24 21:45,deposito,1982.85,,
+2070,14,2026-07-05 09:28,DEPOSITO,$259.35,,
+1510,15,2026-08-19 16:42,transferencia,-1629.61,,
+2426,4,2026-02-08 11:30,deposito,7257.85,,
+2213,10,2026-04-06 17:13,compra,139.73,Sushi Itto,restaurantes
+1498,9,2026-08-27 22:01,compra,159.84,Shell,gasolina
+2469,11,2026-06-01 15:51,compra,269.72,Shell,gasolina
+2133,8,2026-06-17 19:08,compra,492.83,Izzi, Servicios 
+2202,13,2026-09-22 18:27,compra,609.43,Vips,RESTAURANTES
+1105,5,2026-06-11 20:06,compra,221.33,Cinépolis,ENTRETENIMIENTO
+1674,11,2026-03-29 11:17,compra,343.05,Telcel,
+2354,15,2031-06-04 22:45,compra,459.40,Pemex,gasolina
+1951,4,2026-09-02 19:18,compra,414.04,Chedraui,supermercado
+2033,13,28/09/2026 11:22,compra,1006.20,Soriana,supermercado
+2267,2,2026-03-09 19:24,COMPRA,421.22,CFE,SERVICIOS
+1037,2,2026-02-15 11:17,deposito,1891.89,,
+1526,10,2026-02-17 21:35,compra,99.58,Walmart,supermercado
+1878,8,2026-01-09 09:15,transferencia,6537.62,,
+1044,13,2026-08-30 09:36,compra,$295.65,Soriana,SUPERMERCADO
+1125,2,2026-01-23 14:57,compra,585.87,Volaris,viajes
+2157,4,2026-02-15 07:09,compra,652.66,Aeroméxico,viajes
+2221,4,2026-05-13 20:34,COMPRA,2985.20,Cinépolis,entretenimiento
+1713,13,2026-07-17 22:55,compra,259.81,Spotify,ENTRETENIMIENTO
+1987,12,2026-06-19 15:09,transferencia,$477.55,,
+2069,4,2026-02-16 07:35,Compra ,359.00,Cinépolis,entretenimiento
+2323,2,2026-07-02 14:08,compra,294.88,Volaris,viajes
+1690,4,2026-08-08 17:41,compra,1135.25,Chedraui,supermercado
+1333,1,2026-06-01 10:43,retiro,2853.46,,
+1670,12,2026-08-09 22:24,deposito,641.90,,
+1245,14,2026-04-23 15:35,deposito,1163.67,,
+1691,10,2026-09-21 14:28,compra,403.21,La Mariposa,restaurantes
+1233,6,2031-01-19 20:53,compra,460.57,Izzi,servicios
+1178,14,2026-07-27 16:30,deposito,6239.56,,
+1398,7,2026-05-29 16:34,compra,819.93,Toks, Restaurantes 
+2184,3,2026-04-05 11:30,compra,317.61,Pemex,gasolina
+1892,4,2026-05-14 17:49,compra,1634.19,CFE,servicios
+2189,3,2026-05-15 15:39,RETIRO,2969.21,,
+1142,6,2031-08-02 16:22,compra,649.47,HEB,supermercado
+2088,4,2026-09-29 22:19,compra,$508.91,Toks,restaurantes
+2334,4,2026-02-02 13:17,compra,240.61,Chedraui,SUPERMERCADO
+1793,2,2026-08-12 12:26,compra,545.91,Airbnb,viajes
+2256,,2026-02-05 20:41,compra,691.14,Spotify,entretenimiento
+1836,13,2026-05-11 22:13,deposito,3912.84,,
+2308,14,2026-07-01 09:57,compra,739.06,Spotify,entretenimento
+1731,10,2026-08-14 22:54,compra,106.86,Spotify,entretenimiento
+1841,8,2026-09-14 13:32,compra,551.69,Chedraui,supermercado
+1304,1,2026-03-03 19:03,compra,152.03,Sushi Itto,
+2270,10,2026-05-19 07:33,compra,502.51,ETN, Viajes 
+1672,3,2026-03-28 07:01,compra,478.84,Soriana,
+2141,,2026-08-24 09:20,retiro,1875.90,,
+2427,4,2026-05-12 16:18,compra,660.51,Volaris,viajes
+1307,9,2026-08-08 14:23,compra,737.11,La Mariposa,restaurantes
+1904,5,2026-03-31 13:35,compra,545.72,Sushi Itto,restaurantes
+1205,3,2026-04-26 10:15,compra,$91.55,Izzi,servicios
+2079,10,2026-05-16 14:41,compra,203.89,Walmart,supermercado
+1417,2,2026-06-20 16:56,compra,$424.09,Shell,gasolina
+1170,13,2026-07-16 19:48,COMPRA,461.33,Spotify,entretenimiento
+1014,15,2026-01-24 11:56,deposito,514.07,,
+1431,8,2026-05-14 16:51,retiro,1958.64,,
+1857,1,2026-01-21 07:36,deposito,10836.27,,
+1156,3,2026-07-22 12:49,COMPRA,1837.18,Pemex,gasolina
+1746,8,22/08/2026 12:05,compra,422.83,Vips,restaurantes
+1604,10,2026-04-07 13:50,COMPRA,280.60,Ticketmaster,entretenimiento
+1295,6,2026-05-01 09:14,compra,122.01,Chedraui,supermercado
+1530,8,2026-03-22 16:54,transferencia,386.33,,
+1119,6,2026-04-06 08:26,compra,133.49,Spotify,entretenimiento
+1294,13,2026-08-16 18:47,compra,792.52,Izzi,servicios
+2109,4,2026-04-15 20:32,deposito,7206.87,,
+1786,5,2026-08-06 10:56,compra,393.30,Chedraui,supermercado
+2454,404,2026-06-18 10:35,compra,518.96,Sushi Itto, Restaurantes 
+1521,8,2026-02-24 12:51,compra,838.60,HEB,SUPERMERCADO
+1818,13,2026-05-25 08:44,deposito,7277.85,,
+1575,11,2026-04-03 17:54,compra,1755.80,BP,gasolina
+2205,7,11/02/2026 17:42,compra,-1350.26,Izzi,servicios
+2315,4,2026-05-28 12:15,compra,271.50,Spotify,entretenimiento
+1932,6,2026-07-13 16:25,compra,702.63,Shell,GASOLINA
+1629,14,2026-06-23 13:29,transferencia,1301.36,,
+2340,10,2026-03-25 14:54,retiro,395.02,,
+1701,4,2026-07-29 16:02,deposito,2502.68,,
+1210,11,2026-09-03 10:53,compra,356.13,Aeroméxico,VIAJES
+1102,,2026-09-15 14:07,compra,$85.51,Pemex,gasolina
+1031,4,2026-09-08 21:12,compra,,HEB,SUPERMERCADO
+1887,8,2026-02-10 18:11,compra,1058.67,Volaris, Viajes 
+2410,5,2026-02-15 15:21,deposito,922.95,,
+1216,2,2026-07-29 15:49,compra,165.10,CFE,servicios
+2437,15,2026-08-03 19:03,transferencia,503.19,,
+1442,2,2026-04-08 17:46,retiro,1265.44,,
+1648,5,2026-01-08 21:01,deposito,682.89,,
+2416,5,2026-01-27 22:00,compra,481.79,La Mariposa,restaurantes
+1116,14,2026-02-10 16:58,deposito,1795.17,,
+2303,10,2026-05-01 09:41,compra,70.46,Aeroméxico,viajes
+1615,15,2026-06-28 11:53,compra,171.73,Shell,gasolina
+1174,7,2026-02-05 14:25,compra,44.93,Netflix,entretenimiento
+2260,7,2026-04-04 14:32,transferencia,"$1,610.50",,
+2073,1,2026-04-02 21:08,compra,201.32,Telmex,servicios
+2186,11,2026-08-11 22:35,compra,3701.99,BP,gasolina
+2457,7,2026-08-21 13:56,TRANSFERENCIA,$424.37,,
+1776,,2026-07-05 19:52,compra,220.77,Airbnb,viajes
+1474,14,2026-05-30 17:16,compra,2208.42,Toks,RESTAURANTES
+1919,8,2026-05-03 13:38,retiro,$652.60,,
+1556,11,2026-03-23 14:42,compra,1653.25,Toks,restaurantes
+2396,10,2026-01-21 22:58,compra,377.69,Cinépolis,entretenimiento
+1936,6,2026-02-15 11:38,compra,528.48,Airbnb,viajes
+2244,5,2031-06-16 12:44,deposito,1664.78,,
+1317,10,2026-06-19 12:10,compra,127.68,Izzi,servicios
+1867,7,2026-06-30 16:04,compra,-74.17,Soriana,supermercado
+1375,9,2026-08-10 13:05,compra,1144.08,Spotify,entretenimiento
+1460,2,2026-07-20 09:16,compra,144.55,Aeroméxico,VIAJES
+1986,9,2026-01-24 17:26,compra,241.34,Netflix,entretenimiento
+1698,7,2026-09-29 21:21,retiro,17629.30,,
+2249,5,2026-05-14 18:15,compra,161.35,Sushi Itto,restaurantes
+2210,6,2026-06-24 19:54,compra,$270.94,Pemex,gasolina
+1564,99,2026-07-02 09:02,deposito,2594.75,,
+1166,9,2026-07-18 11:23,deposito,397.93,,
+1800,2,2026-08-25 20:46,compra,233.49,Izzi,servicios
+1452,14,28/03/2026 19:59,deposito,2458.29,,
+1529,14,22/04/2026 15:40,deposito,-17939.82,,
+1336,3,2026-02-05 18:04,compra,574.19,Volaris, Viajes 
+2423,9,2026-06-08 20:32,compra,60.89,BP,
+2420,4,2026-03-03 13:13,compra,-1848.14,Izzi,SERVICIOS
+1755,1,2026-03-06 09:12,deposito,1087.68,,
+1255,3,2026-02-15 19:22,compra,,Volaris,viajes
+2262,13,2026-06-11 12:35,deposito,1132.08,,
+2251,9,2026-05-01 16:59,transferencia,754.20,,
+1855,7,2026-08-15 09:15,compra,310.02,Airbnb,viajes
+2414,12,2026-07-27 09:20,COMPRA,$450.32,HEB,
+2419,6,2026-06-07 16:23,compra,491.35,Pemex,gasolina
+2030,99,2026-03-28 07:40,compra,421.53,Shell,gasolina
+1899,10,2026-05-03 20:33,compra,331.80,La Mariposa,restaurantes
+1213,8,2026-01-08 21:10,compra,403.93,Ticketmaster,entretenimiento
+1875,13,2026-02-09 11:10,deposito,,,
+1330,12,2026-05-25 15:08,compra,409.96,Izzi,servicios
+2049,4,2026-08-31 17:24,compra,426.28,Soriana,supermercado
+1394,3,2026-03-14 08:29,retiro,2669.68,,
+2108,10,2031-03-30 10:21,retiro,15562.34,,
+2476,10,2026-01-06 12:00,compra,779.39,Airbnb, Viajes 
+1551,7,2026-08-03 13:31,compra,493.60,Walmart,supermercado
+1612,1,2026-09-02 08:09,compra,906.49,Shell,gasolina
+1667,3,2026-09-07 18:07,compra,412.05,Sushi Itto,restaurantes
+1437,14,2026-01-12 22:52,transferencia,6794.65,,
+1020,15,2026-05-15 18:51,compra,$93.44,Vips,restaurantes
+1214,2,2026-05-07 17:04,compra,832.67,BP,gasolina
+1806,5,2026-08-25 08:06,COMPRA,461.65,Shell,gasolina
+1679,13,2026-07-16 15:42,compra,510.42,Pemex,gasolina
+2417,8,2026-06-19 07:51,compra,,BP,gasolina
+2473,2,2026-03-13 11:39,DEPOSITO,990.16,,
+1023,13,2026-07-27 22:19,RETIRO,1099.55,,
+1349,9,2026-03-03 10:17,compra,647.60,Walmart,supermercado
+1408,11,2026-08-28 14:10,deposito,2758.71,,
+1636,1,14/06/2026 10:41,COMPRA,253.62,BP,gasolina
+2254,13,2026-02-10 09:43,compra,303.38,Shell,gasolina
+2384,8,2026-03-11 21:36,compra,,Aeroméxico,viajes
+1654,5,2026-01-19 13:49,COMPRA,762.09,BP,gasolina
+2224,4,2026-04-13 15:53,deposito,6464.88,,
+2337,10,2026-05-04 12:51,compra,,Shell,gasolina
+1687,4,2026-05-12 10:30,deposito,384.51,,
+2116,9,2026-08-06 18:18,transferencia,6635.22,,
+1590,13,2026-07-19 17:10,DEPOSITO,7420.73,,
+2047,8,2026-02-27 10:05,compra,228.88,HEB,supermercado
+1794,11,2026-02-06 17:27,compra,385.90,Soriana,supermercado
+1995,1,2026-09-21 12:22,retiro,1523.12,,
+2093,10,2026-05-06 13:03,transferencia,2991.77,,
+1084,7,2026-08-14 07:55,compra,537.54,Sushi Itto,restaurantes
+1773,9,2026-07-26 21:22,compra,755.39,Izzi, Servicios 
+1136,13,2026-09-29 14:09,deposito,367.64,,
+1035,12,2026-03-17 21:17,compra,1352.67,BP,gasolina
+1487,5,2026-01-01 13:22,compra,177.63,BP,gasolina
+1893,1,2026-07-13 19:23,compra,378.19,Spotify,entretenimiento
+2329,4,2026-08-07 17:02,compra,$246.89,BP,gasolina
+1537,9,2026-05-21 15:31,compra,102.84,Walmart,supermercado
+1419,2,2026-01-27 19:22,compra,159.11,Cinépolis,entretenimiento
+1539,7,2026-02-03 11:33,compra,172.07,CFE,servicios
+2380,6,2026-01-24 19:07,compra,185.60,Airbnb,viajes
+1054,14,2026-05-15 17:02,transferencia,533.96,,
+1377,8,2026-07-16 10:22,deposito,976.95,,
+2341,1,2026-01-06 17:27,deposito,-1661.27,,
+2027,2,2026-08-16 09:37,compra,477.28,Toks, Restaurantes 
+2453,2,2026-02-24 18:12,compra,228.96,Toks, Restaurantes 
+1135,7,2026-09-01 09:47,compra,2044.58,Vips,restaurantes
+1354,1,2026-04-19 09:13,compra,$550.11,Ticketmaster,entretenimento
+2268,12,2026-03-30 19:40,compra,594.79,Walmart,SUPERMERCADO
+1942,13,2026-07-22 07:39,compra,230.04,CFE, Servicios 
+1769,10,2026-05-21 17:30,transferencia,323.96,,
+2346,15,2026-04-25 21:27,compra,,Vips,restaurantes
+1048,13,2026-07-29 14:52,compra,2178.02,Chedraui,supermercado
+2096,7,2026-03-16 10:05,compra,1514.86,Izzi,servicios
+1620,15,2026-05-05 10:21,compra,1172.22,Soriana,super
+1439,7,2026-07-16 15:13,deposito,13127.72,,
+2151,10,2026-01-10 08:11,compra,$307.24,Netflix,entretenimiento
+1999,7,2026-08-04 22:11,retiro,8915.27,,
+2371,15,2026-01-03 07:52,compra,338.18,Shell,gasolina
+2302,1,2031-07-16 18:55,transferencia,12837.54,,
+1500,4,2026-02-15 17:09,compra,182.96,Vips,restaurantes
+1128,3,2026-05-09 15:55,COMPRA,238.85,Vips,restaurantes
+2178,3,11/09/2026 08:25,compra,795.40,Sushi Itto,restaurantes
+2286,6,2026-03-03 19:18,compra,808.78,Telmex,servicios
+1430,10,2026-06-17 18:51,compra,383.35,Cinépolis,entretenimiento
+2266,10,2026-05-28 12:35,compra,786.04,Netflix,ENTRETENIMIENTO
+1476,13,2026-07-03 10:49,deposito,16032.50,,
+2227,7,2026-03-19 11:15,deposito,2784.88,,
+2320,15,2026-08-31 17:02,transferencia,2387.56,,
+1025,9,2026-04-01 08:19,compra,796.64,CFE,servicios
+1266,1,2026-06-29 14:48,deposito,1223.57,,
+1912,9,2026-02-07 13:19,compra,137.69,Izzi,servicios
+2305,15,2026-01-04 19:33,deposito,-582.48,,
+1902,5,2026-03-05 15:18,compra,25.73,La Mariposa,RESTAURANTES
+1848,10,2026-01-11 14:59,compra,-845.56,ETN,viajes
