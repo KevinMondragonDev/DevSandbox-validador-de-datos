@@ -2,7 +2,7 @@
 
 > Biblioteca que revisa un CSV fila por fila y dice exactamente qué está mal y por qué, sin detenerse en el primer error.
 
-**Estado:** 🚧 sin empezar · **Tipo:** Biblioteca + ETL · **Módulo del programa:** 04 · Funciones y excepciones
+**Estado:** 🚧 sin empezar · **Tipo:** Biblioteca + ETL · **Módulo del programa:** 02 · Funciones y POO
 
 ## La problemática
 

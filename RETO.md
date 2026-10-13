@@ -2,7 +2,7 @@
 
 **Repositorio:** `sideproject-validador-de-datos` · **Tipo:** biblioteca + ETL · **Tiempo:** 4–5 h · **Después de:** el gran integrador de este módulo
 
-> Reglas, README y lista de cierre: [`06_ingenieria_de_datos/SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
@@ -43,5 +43,5 @@ Datos: `datos/transacciones_sucias.csv` (con `csv.DictReader`, sin pandas).
 
 ## Súbelo de nivel
 
-- Tests con `pytest` para cada regla (`06_ingenieria_de_datos/03_ingenieria_de_software/04`).
-- Compáralo, cuando llegues, con la validación de Pydantic (`06_ingenieria_de_datos/06_apis_con_fastapi/02`).
+- Tests con `pytest` para cada regla (`05_ingenieria_de_datos/03_ingenieria_de_software/02_paquetes_y_pruebas/04`).
+- Compáralo, cuando llegues, con la validación de Pydantic (`05_ingenieria_de_datos/06_apis_con_fastapi/01_construir/02`).
